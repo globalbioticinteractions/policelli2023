@@ -1,0 +1,696 @@
+ID,EMF_sp,Synonymia,Reference_original,Introduced_only,Plantation_only,Invasion_mature,Invasion_front,Host,Field_sample,Greenhouse_sample,Introduced_to,Stand_mean_age_years,Mean_altitude_m,LAT_decimal,LON_decimal,N_g/kg,pH,SOC_g/kg,Annual_mean_temperature_°C,Annual_precipitation_mm,Type_of_ecosystem ,Observations 
+1,Amanita excelsa,Valid,Hall et al. 2003,1,0,0,0,Pinus sp. ,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+2,Amanita excelsa,Valid,Lundquist 1986,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+3,Amanita excelsa,Valid,Lundquist 1987a,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+4,Amanita excelsa,Valid,Reid & Eicker 1991,1,0,0,0,Pinus sp. ,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+5,Amanita excelsa,Valid,Stevenson 1962,1,0,0,0,Pinus sp.,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+6,Amanita excelsa,Valid,Van der Westhuizen & Eicker 1987,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+7,Amanita gemmata,Valid,Garrido 1986,0,1,0,0,Pinus radiata,1,0,Chile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+8,Amanita muscaria,Valid,Birch 1937,1,0,0,0,Pinus radiata,1,0,"North Island, New Zealand ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+9,Amanita muscaria,Valid,Chu-Chou & Grace 1990,0,1,0,0,Pinus radiata,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+10,Amanita muscaria,Valid,Chu-Chou 1979,0,1,0,0,Pinus radiata,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+11,Amanita muscaria,Valid,De Meijer 2001,1,0,0,0,Pinus sp.,1,0,Brazil,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+12,Amanita muscaria,Valid,Franco-Molano et al. 2000,1,0,0,0,Pinus sp.,1,0,Colombia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+13,Amanita muscaria,Valid,Fuhrer & Robinson 1992,1,0,0,0,Pinus sp. ,1,0,Tasmania,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+14,Amanita muscaria,Valid,Garrido 1986,0,1,0,0,Pinus radiata,1,0,Chile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+15,Amanita muscaria,Valid,Giachini et al. 2000,0,1,0,0,Pinus taeda,1,0,"Santa Catarina, Brazil",15,850,-27.5833333,-50.3666666666666,3.08,4.05,36.7,16,1700,Subtropical forest,Climatic variables and pH informed in the paper
+16,Amanita muscaria,Valid,Giachini et al. 2004,0,1,0,0,Pinus taeda,1,0,"Santa Catarina, Brazil",9,800,-27.75,-49.5,3.11,4.8,36.6,16,1700,Subtropical forest,Climatic variables and pH informed in the paper
+17,Amanita muscaria,Valid,Grgurinovic 1997,1,0,0,0,Pinus sp.,1,0,Australia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+18,Amanita muscaria,Valid,Härkönen et al. 1994,0,1,0,0,Pinus spp.,1,0,Tanzania,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+19,Amanita muscaria,Valid,Hemmes & Desjardin 2002,1,0,0,0,Pinus sp.,1,0,"Hawaii, USA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+20,Amanita muscaria,Valid,Landcare Research 2008,1,0,0,0,Pinus radiata,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+21,Amanita muscaria,Valid,Levin et al. 1985,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+22,Amanita muscaria,Valid,Lundquist 1986,1,0,0,0,Pinus spp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+23,Amanita muscaria,Valid,Marais & Kotzé 1977,1,0,0,0,Pinus patula,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+24,Amanita muscaria,Valid,Mikola 1969,0,1,0,0,Pinus spp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+25,Amanita muscaria,Valid,Morris 1990,1,0,0,0,Pinus sp.,1,0,Malawi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+26,Amanita muscaria,Valid,Natarajan 1977,1,0,0,0,Pinus sp.,1,0,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+27,Amanita muscaria,Valid,Pulido 1983,0,1,0,0,Pinus sp. ,1,0,Colombia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+28,Amanita muscaria,Valid,Reid & Eicker 1991,1,0,0,0,Pinus sp. ,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+29,Amanita muscaria,Valid,Ryvarden et al. 1994,1,0,0,0,Pinus spp.,1,0,"Zimbabwe, Malawi, Zaire",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+30,Amanita muscaria,Valid,Sawyer et al. 2001,0,1,0,0,Pinus radiata,1,0,Australia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+31,Amanita muscaria,Valid,Shepherd & Totterdell 1988,1,0,0,0,Pinus sp.,1,0,Australia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+32,Amanita muscaria,Valid,Sobestiansky 2005,1,0,0,0,Pinus sp.,1,0,Brazil,40,565,-29.3666667,-51.1333333333333,2.68,5.6,28.1,17.2,1804,Subtropical forest,
+33,Amanita muscaria,Valid,Stevenson 1962,1,0,0,0,Pinus radiata,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+34,Amanita muscaria,Valid,Stijve & De Meijer 1993,1,0,0,0,Pinus sp.,1,0,Brazil,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+35,Amanita muscaria,Valid,Verwoerd 1929,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+36,Amanita pantherina,Valid,Lundquist 1986,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+37,Amanita pantherina,Valid,Lundquist 1987a,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+38,Amanita pantherina var. multisquamosa,Amanita multisquamosa,Giachini et al. 2000,0,1,0,0,Pinus taeda,1,0,"Santa Catarina, Brazil",15,850,-27.5833333,-50.3666666666666,3.08,4.05,36.7,16,1700,Subtropical forest,Climatic variables and pH informed in the paper
+39,Amanita pantherina var. multisquamosa,Amanita multisquamosa,Giachini et al. 2004,0,1,0,0,Pinus taeda,1,0,"Santa Catarina, Brazil",9,800,-27.75,-49.5,3.11,4.8,36.6,16,1700,Subtropical forest,Climatic variables and pH informed in the paper
+40,Amanita phalloides,Valid,Levin et al. 1985,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+41,Amanita phalloides,Valid,Lundquist 1986,0,1,0,0,Pinus radiata,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+42,Amanita phalloides,Valid,Lundquist 1987a,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+43,Amanita phalloides,Valid,Reid & Eicker 1991,1,0,0,0,Pinus sp. ,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+44,Amanita rubescens,Valid,Garrido 1986,0,1,0,0,Pinus radiata,1,0,Chile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+45,Amanita rubescens,Valid,Lundquist 1986,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+46,Amanita rubescens,Valid,Lundquist 1987a,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+47,Amanita rubescens,Valid,Reid & Eicker 1991,1,0,0,0,Pinus sp. ,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+48,Amanita rubescens,Valid,Ryvarden et al. 1994,1,0,0,0,Pinus spp.,1,0,Zimbabwe,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+49,Amanita rubescens,Valid,Sobestiansky 2005,1,0,0,0,Pinus sp.,1,0,Brazil,40,825,-29.3833333,-50.8833333333333,3.69,5,48.2,16,1990,Subtropical forest,
+50,Amphinema byssoides,Valid,Barroetaveña et al. 2005,0,1,0,0,Pinus ponderosa,1,0,"Patagonia, Argentina",40,650,-42.9166667,-71.35,3.13,6.1,52.9,9.8,750,Steppe grassland,Climatic variables informed in the paper
+51,Astraeus hygrometricus,Valid,Lundquist 1986,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+52,Boletus edulis,Valid,Garrido 1986,0,1,0,0,Pinus radiata,1,0,Chile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+53,Boletus edulis,Valid,Lundquist 1986,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+54,Boletus edulis,Valid,Lundquist 1987a,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+55,Boletus edulis,Valid,Mikola 1969,0,1,0,0,Pinus spp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+56,Boletus edulis,Valid,Petersen et al. 1994,0,1,0,0,Pinus sp.,1,0,Faroe Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+57,Boletus edulis,Valid,Ryvarden et al. 1994,1,0,0,0,Pinus spp.,1,0,Zimbabwe,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+58,Boletus edulis,Valid,Sobestiansky 2005,1,0,0,0,Pinus sp.,1,0,Brazil,40,825,-29.3833333,-50.8833333333333,3.69,5,48.2,16,1990,Subtropical forest,
+59,Chalciporus piperatus,Valid,Chu-Chou 1979,0,1,0,0,Pinus radiata,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+60,Chalciporus piperatus,Valid,Dunstan et al. 1998,1,0,0,0,Pinus sp. ,1,0,Australia,22,,-34,115,1.57,6.4,41.5,NA,NA,Grassland ,
+61,Chalciporus piperatus,Valid,Giachini et al. 2000,0,1,0,0,Pinus taeda,1,0,"Santa Catarina, Brazil",15,850,-27.5833333,-50.3666666666666,3.08,4.05,36.7,16,1700,Subtropical forest,Climatic variables and pH informed in the paper
+62,Chalciporus piperatus,Valid,McNabb 1968,1,0,0,0,Pinus radiata,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+63,Chalciporus piperatus,Valid,Mikola 1969,0,1,0,0,Pinus spp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+64,Chalciporus piperatus,Valid,Petersen et al. 1994,0,1,0,0,Pinus sp.,1,0,Faroe Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+65,Chalciporus piperatus,Valid,Stevenson 1961,1,0,0,0,Pinus sp.,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+66,Chalciporus piperatus,Valid,Watling & de Meijer 1997,0,1,0,0,Pinus spp.,1,0,Brazil,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+67,Chroogomphus rutilus,Valid,Wright & Albertó 2002,1,0,0,0,Pinus sp. ,1,0,Argentina,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+68,Clavulina cristata,Valid,Lundquist 1986,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+69,Coltricia cinnamomea,Valid,Ivory 1980,1,0,0,0,Pinus caribaea,1,0,Malaysia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+70,Coltricia perennis,Valid,De Meijer 2001,1,0,0,0,Pinus sp.,1,0,Brazil,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+71,Elaphomyces cervinus,Elaphomyces granulatus,Garrido 1986,0,1,0,0,Pinus radiata,1,0,Chile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+72,Gautieria mexicana,Valid,Álvarez et al. 1993,1,0,0,0,Pinus radiata,1,0,Spain,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+73,Geopora cooperi,Valid,Fogel & States 2001,1,0,0,0,Pinus contorta ,1,0,"Nevada, USA",57,2171,41.6758333,-117.538333333333,2.64,6.3,38,3.8,401,Temperate forest ,
+74,Hebeloma crustuliniforme,Valid,Chu-Chou & Grace 1990,0,1,0,0,Pinus radiata,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+75,Hebeloma crustuliniforme,Valid,Chu-Chou 1979,0,1,0,0,Pinus radiata,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+76,Hebeloma crustuliniforme,Valid,Dunstan et al. 1998,1,0,0,0,Pinus sp. ,1,0,Australia,22,,-34,115,1.57,6.4,41.5,NA,NA,Grassland ,
+77,Hebeloma crustuliniforme,Valid,Garrido 1986,0,1,0,0,Pinus spp.,1,0,Chile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+78,Hebeloma crustuliniforme,Valid,Gibson 1963,1,0,0,0,Pinus spp.,1,0,Kenya,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+79,Hebeloma crustuliniforme,Valid,Grgurinovic 1997,1,0,0,0,Pinus sp.,1,0,Australia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+80,Hebeloma crustuliniforme,Valid,Kost 2002,0,1,0,0,Pinus sp.,1,0,Kenya,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+81,Hebeloma crustuliniforme,Valid,Mikola 1969,0,1,0,0,Pinus spp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+82,Hebeloma crustuliniforme,Valid,Pegler 1977,1,0,0,0,Pinus spp. ,1,0,Tanzania,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+83,Hebeloma hiemale,Valid,Barroetaveña et al. 2005,1,0,0,0,Pinus ponderosa,1,0,"Patagonia, Argentina",40,650,-42.9166667,-71.35,3.13,6.1,52.9,9.8,750,Steppe grassland,Climatic variables informed in the paper
+84,Hebeloma mesophaeum,Valid,Barroetaveña et al. 2005,0,1,0,0,Pinus ponderosa,1,0,"Patagonia, Argentina",40,650,-42.9166667,-71.35,3.13,6.1,52.9,9.8,750,Steppe grassland,Climatic variables informed in the paper
+85,Hebeloma mesophaeum,Valid,Grgurinovic 1997,1,0,0,0,Pinus spp.,1,0,Australia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+86,Hebeloma sacchariolens,Valid,De Meijer 2001,1,0,0,0,Pinus sp.,1,0,Brazil,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+87,Hebeloma sacchariolens,Valid,Sobestiansky 2005,1,0,0,0,Pinus sp.,1,0,Brazil,40,565,-29.3666667,-51.1333333333333,2.68,5.6,28.1,17.2,1804,Subtropical forest,
+88,Hebeloma testaceum,Valid,Grgurinovic 1997,1,0,0,0,Pinus sp.,1,0,Australia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+89,Hebeloma versipelle,Valid,Kost 2002,0,1,0,0,Pinus sp.,1,0,Kenya,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+90,Hydnangium soderstromii,Valid,Garrido 1986,0,1,0,0,Pinus radiata,1,0,Chile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+91,Hydnangium soderstromii,Valid,Lazo 1972,1,0,0,0,Pinus radiata,1,0,Chile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+92,Hysterangium clathroides,Valid,Álvarez et al. 1993,1,0,0,0,Pinus radiata,1,0,Spain,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+93,Hysterangium crassum,Hysterangium clathroides var. crassum,Fogel & States 2001,1,0,0,0,Pinus contorta ,1,0,"Nevada, USA",57,2171,41.6758333,-117.538333333333,2.64,6.3,38,3.8,401,Temperate forest,
+94,Hysterangium incarceratum,Valid,Malençon1975a,1,0,0,0,Pinus pinea,1,0,Mauritania,NA,30,35.8,-5.7,1.2,7.1,18.1,NA,NA,NA,
+95,Inocybe curvipes,Valid,De Meijer 2001,1,0,0,0,Pinus sp.,1,0,Brazil,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+96,Inocybe curvipes,Valid,Ryvarden et al. 1994,0,1,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+97,Inocybe curvipes,Valid,Sobestiansky 2005,1,0,0,0,Pinus sp.,1,0,Brazil,40,565,-29.3666667,-51.1333333333333,2.68,5.6,28.1,17.2,1804,Subtropical forest,
+98,Inocybe geophylla,Valid,Garrido 1986,0,1,0,0,Pinus radiata,1,0,Chile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+99,Inocybe kauffmanii,Valid,Barroetaveña et al. 2005,1,0,0,0,Pinus ponderosa,1,0,"Patagonia, Argentina",40,650,-42.9166667,-71.35,3.13,6.1,52.9,9.8,750,Steppe grassland,Climatic variables informed in the paper
+100,Inocybe lanuginosa,Valid,Natarajan et al. 1988,1,0,0,0,Pinus patula,1,0,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+101,Inocybe petiginosa,Valid,Natarajan et al. 1988,1,0,0,0,Pinus patula,1,0,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+102,Laccaria amethystina,Valid,Giachini et al. 2004,0,1,0,0,Pinus taeda,1,0,"Santa Catarina, Brazil",9,800,-27.75,-49.5,3.11,4.8,36.6,16,1700,Subtropical forest,Climatic variables and pH informed in the paper
+103,Laccaria fraterna,Valid,Dunstan et al. 1998,1,0,0,0,Pinus sp. ,1,0,Australia,22,,-34,115,1.57,6.4,41.5,NA,NA,Grassland ,
+104,Laccaria fraterna,Valid,Jamoni 1990,1,0,0,0,Pinus strobus,1,0,Italy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+105,Laccaria fraterna,Valid,Malençon 1966,1,0,0,0,Pinus sp.,1,0,"Portugal, Morocco, Congo, Uruguay, Argentina",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+106,Laccaria fraterna,Valid,McNabb 1972,1,0,0,0,Pinus radiata,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+107,Laccaria fraterna,Valid,Morris 1990,1,0,0,0,Pinus sp.,1,0,Malawi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+108,Laccaria laccata,Valid,Chu-Chou & Grace 1990,0,1,0,0,Pinus radiata,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+109,Laccaria laccata,Valid,Chu-Chou 1979,0,1,0,0,Pinus radiata,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+110,Laccaria laccata,Valid,Garrido 1986,0,1,0,0,Pinus spp.,1,0,Chile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+111,Laccaria laccata,Valid,Lundquist 1986,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+112,Laccaria laccata var. laccata,Valid,Natarajan 1977,1,0,0,0,Pinus sp.,1,0,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+113,Laccaria laccata var. pallidifolia,Valid,Giachini et al. 2000,0,1,0,0,Pinus taeda,1,0,"Santa Catarina, Brazil",15,850,-27.5833333,-50.3666666666666,3.08,4.05,36.7,16,1700,Subtropical forest,Climatic variables and pH informed in the paper
+114,Laccaria proxima,Valid,De Meijer 2001,1,0,0,0,Pinus sp.,1,0,Brazil,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+115,Laccaria proxima,Valid,Giachini et al. 2000,0,1,0,0,Pinus taeda,1,0,"Santa Catarina, Brazil",15,850,-27.5833333,-50.3666666666666,3.08,4.05,36.7,16,1700,Subtropical forest,Climatic variables and pH informed in the paper
+116,Laccaria proxima,Valid,Hemmes & Desjardin 2002,1,0,0,0,Pinus sp.,1,0,"Hawaii, USA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+117,Laccaria proxima,Valid,McNabb 1972,1,0,0,0,Pinus radiata,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+118,Laccaria proxima,Valid,Sobestiansky 2005,1,0,0,0,Pinus sp.,1,0,Brazil,40,565,-29.3666667,-51.1333333333333,2.68,5.6,28.1,17.2,1804,Subtropical forest,
+119,Laccaria pumila,Valid,Giachini et al. 2004,0,1,0,0,Pinus taeda,1,0,"Santa Catarina, Brazil",9,800,-27.75,-49.5,3.11,4.8,36.6,16,1700,Subtropical forest,Climatic variables and pH informed in the paper
+120,Laccaria tetraspora f. tetraspora,Valid,McNabb 1972,1,0,0,0,Pinus pinaster,1,0,New Zealand,NA,200,-43.4795434687003,173.301177542068,2.36,6,60.2,NA,NA,NA,
+121,Laccaria tortilis,Valid,Barroetaveña et al. 2005,1,0,0,0,Pinus ponderosa,1,0,"Patagonia, Argentina",40,650,-42.9166667,-71.35,3.13,6.1,52.9,9.8,750,Steppe grassland,Climatic variables informed in the paper
+122,Laccaria tortilis,Valid,Giachini et al. 2004,0,1,0,0,Pinus taeda,1,0,"Santa Catarina, Brazil",9,800,-27.75,-49.5,3.11,4.8,36.6,16,1700,Subtropical forest,Climatic variables and pH informed in the paper
+123,Lactarius argillaceifolius var. argillaceifolius,Valid,Giachini et al. 2000,0,1,0,0,Pinus taeda,1,0,"Santa Catarina, Brazil",15,850,-27.5833333,-50.3666666666666,3.08,4.05,36.7,16,1700,Subtropical forest,Climatic variables and pH informed in the paper
+124,Lactarius argillaceifolius var. argillaceifolius,Valid,Giachini et al. 2004,0,1,0,0,Pinus elliotti,1,0,"Santa Catarina, Brazil",9,800,-27.75,-49.5,3.11,4.8,36.6,16,1700,Subtropical forest,Climatic variables and pH informed in the paper
+125,Lactarius deliciosus,Valid,Dunstan et al. 1998,1,0,0,0,Pinus sp. ,1,0,Australia,22,,-34,115,1.57,6.4,41.5,NA,NA,Grassland ,
+126,Lactarius deliciosus,Valid,Garrido 1982,0,1,0,0,Pinus radiata,1,0,Chile ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+127,Lactarius deliciosus,Valid,Garrido 1986,0,1,0,0,Pinus spp.,1,0,Chile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+128,Lactarius deliciosus,Valid,Giachini et al. 2000,0,1,0,0,Pinus taeda,1,0,"Santa Catarina, Brazil",15,850,-27.5833333,-50.3666666666666,3.08,4.05,36.7,16,1700,Subtropical forest,Climatic variables and pH informed in the paper
+129,Lactarius deliciosus,Valid,Giachini et al. 2004,0,1,0,0,Pinus taeda,1,0,"Santa Catarina, Brazil",9,800,-27.75,-49.5,3.11,4.8,36.6,16,1700,Subtropical forest,Climatic variables and pH informed in the paper
+130,Lactarius deliciosus,Valid,Hall et al. 2003,1,0,0,0,Pinus radiata,1,0,Australia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+131,Lactarius deliciosus,Valid,Lundquist 1987a,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+132,Lactarius deliciosus,Valid,Shepherd & Totterdell 1988,1,0,0,0,Pinus sp.,1,0,Australia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+133,Lactarius deliciosus,Valid,Sobestiansky 2005,1,0,0,0,Pinus sp.,1,0,Brazil,40,565,-29.3666667,-51.1333333333333,2.68,5.6,28.1,17.2,1804,Subtropical forest,
+134,Lactarius deliciosus,Valid,Wright & Albertó 2002,1,0,0,0,Pinus sp. ,1,0,Argentina,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+135,Lactarius fragilis var. fragilis,Valid,Giachini et al. 2000,0,1,0,0,Pinus taeda,1,0,"Santa Catarina, Brazil",15,850,-27.5833333,-50.3666666666666,3.08,4.05,36.7,16,1700,Subtropical forest,Climatic variables and pH informed in the paper
+136,Lactarius fragilis var. fragilis,Valid,Giachini et al. 2004,0,1,0,0,Pinus spp.,1,0,"Santa Catarina, Brazil",9,800,-27.75,-49.5,3.11,4.8,36.6,16,1700,Subtropical forest,Climatic variables and pH informed in the paper
+137,Lactarius piperatus,Valid,Lamb & Richards 1970,1,0,0,0,Pinus spp.,1,0,Australia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+138,Lactarius quieticolor,Valid,Petersen et al. 1994,0,1,0,0,Pinus sp.,1,0,Faroe Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+139,Lactarius rufus,Valid,De Meijer 2001,1,0,0,0,Pinus sp.,1,0,Brazil,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+140,Lactarius rufus,Valid,Petersen et al. 1994,0,1,0,0,Pinus sp.,1,0,Faroe Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+141,Lactarius rufus,Valid,Sobestiansky 2005,1,0,0,0,Pinus sp.,1,0,Brazil,40,565,-29.3666667,-51.1333333333333,2.68,5.6,28.1,17.2,1804,Subtropical forest,
+142,Lactarius rufus var. parvus,Valid,Giachini et al. 2000,0,1,0,0,Pinus taeda,1,0,"Santa Catarina, Brazil",15,850,-27.5833333,-50.3666666666666,3.08,4.05,36.7,16,1700,Subtropical forest,Climatic variables and pH informed in the paper
+143,Lactarius rufus var. parvus,Valid,Giachini et al. 2004,0,1,0,0,Pinus taeda,1,0,"Santa Catarina, Brazil",9,800,-27.75,-49.5,3.11,4.8,36.6,16,1700,Subtropical forest,Climatic variables and pH informed in the paper
+144,Lactarius rufus var. rufus,Valid,Giachini et al. 2000,0,1,0,0,Pinus taeda,1,0,"Santa Catarina, Brazil",15,850,-27.5833333,-50.3666666666666,3.08,4.05,36.7,16,1700,Subtropical forest,Climatic variables and pH informed in the paper
+145,Lactarius rufus var. rufus,Valid,Giachini et al. 2004,0,1,0,0,Pinus taeda,1,0,"Santa Catarina, Brazil",9,800,-27.75,-49.5,3.11,4.8,36.6,16,1700,Subtropical forest,Climatic variables and pH informed in the paper
+146,Martellia ellipsospora,Russula ellipsospora,Montecchi & Sarasini 2000,1,0,0,0,Pinus ponderosa,1,0,Italy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+147,Paxillus involutus,Valid,Dunstan et al. 1998,1,0,0,0,Pinus sp. ,1,0,Australia,22,,-34,115,1.57,6.4,41.5,NA,NA,Grassland ,
+148,Paxillus involutus,Valid,Wright & Albertó 2002,1,0,0,0,Pinus sp. ,1,0,Argentina,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+149,Paxillus involutus,Valid,Young 2005,1,0,0,0,Pinus sp.,1,0,Australia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+150,Rhizopogon ellenae,Valid,Barroetaveña et al. 2005,0,1,0,0,Pinus ponderosa,1,0,"Patagonia, Argentina",40,650,-42.9166667,-71.35,3.13,6.1,52.9,9.8,750,Steppe grassland,Climatic variables informed in the paper
+151,Rhizopogon fuscorubens,Valid,Giachini et al. 2000,0,1,0,0,Pinus taeda,1,0,"Santa Catarina, Brazil",15,850,-27.5833333,-50.3666666666666,3.08,4.05,36.7,16,1700,Subtropical forest,Climatic variables and pH informed in the paper
+152,Rhizopogon fuscorubens,Valid,Giachini et al. 2004,0,1,0,0,Pinus spp.,1,0,"Santa Catarina, Brazil",9,800,-27.75,-49.5,3.11,4.8,36.6,16,1700,Subtropical forest,Climatic variables and pH informed in the paper
+153,Rhizopogon honoratoi,Valid,Spegazzini 1917,1,0,0,0,Pinus sp.,1,0,Chile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+154,Rhizopogon luteolus,Valid,Chu-Chou & Grace 1983,0,1,0,0,Pinus radiata,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+155,Rhizopogon luteolus,Valid,Chu-Chou & Grace 1990,0,1,0,0,Pinus radiata,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+156,Rhizopogon luteolus,Valid,Chu-Chou 1979,0,1,0,0,Pinus radiata,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+157,Rhizopogon luteolus,Valid,Cunningham 1942,1,0,0,0,Pinus spp.,1,0,Tasmania,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+158,Rhizopogon luteolus,Valid,Dunstan et al. 1998,1,0,0,0,Pinus sp. ,1,0,Australia,22,,-34,115,1.57,6.4,41.5,NA,NA,Grassland ,
+159,Rhizopogon luteolus,Valid,Garrido 1986,0,1,0,0,Pinus radiata,1,0,Chile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+160,Rhizopogon luteolus,Valid,Grgurinovic 1997,1,0,0,0,Pinus sp.,1,0,Australia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+161,Rhizopogon luteolus,Valid,Lamb & Richards 1970,1,0,0,0,Pinus spp.,1,0,Australia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+162,Rhizopogon luteolus,Valid,Lundquist 1986,1,0,0,0,Pinus pinaster,1,0,South Africa,NA,1720,-26.25,30.533333,1.99,5.3,24.2,NA,NA,NA,
+163,Rhizopogon luteolus,Valid,Natarajan et al. 1988,1,0,0,0,Pinus patula,1,0,India,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+164,Rhizopogon luteolus,Valid,Ryvarden et al. 1994,1,0,0,0,Pinus sp.,1,0,"Malawi, Zimbabwe, Zambia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+165,Rhizopogon luteorubescens,Valid,De Meijer 2001,1,0,0,0,Pinus sp.,1,0,Brazil,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+166,Rhizopogon nigrescens,Valid,Giachini et al. 2000,0,1,0,0,Pinus spp.,1,0,"Santa Catarina, Brazil",19,0,-26.3666667,-48.7166663888888,4.32,4.2,65.9,22,1700,Subtropical forest,Climatic variables and pH informed in the paper
+167,Rhizopogon occidentalis,Valid,Rubio et al. 2006,1,0,0,0,Pinus radiata,1,0,Spain,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+168,Rhizopogon roseolus,Valid,Barroetaveña et al. 2005,0,1,0,0,Pinus ponderosa,1,0,"Patagonia, Argentina",40,650,-42.9166667,-71.35,3.13,6.1,52.9,9.8,750,Steppe grassland,Climatic variables informed in the paper
+169,Rhizopogon roseolus,Valid,Dunstan et al. 1998,1,0,0,0,Pinus sp. ,1,0,Australia,22,,-34,115,1.57,6.4,41.5,NA,NA,Grassland ,
+170,Rhizopogon roseolus,Valid,Garrido 1986,0,1,0,0,Pinus radiata,1,0,Chile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+171,Rhizopogon roseolus,Valid,Lamb & Richards 1970,1,0,0,0,Pinus spp.,1,0,Australia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+172,Rhizopogon roseolus,Valid,Mikola 1969,0,1,0,0,Pinus spp.,1,0,Australia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+173,Rhizopogon rubescens,Rhizopogon roseolus,Birch 1937,1,0,0,0,Pinus radiata,1,0,"North Island, New Zealand ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Some soil variables informed in the paper (C/N/P)
+174,Rhizopogon rubescens,Rhizopogon roseolus,Chu-Chou & Grace 1983,0,1,0,0,Pinus radiata,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+175,Rhizopogon rubescens,Rhizopogon roseolus,Chu-Chou & Grace 1990,0,1,0,0,Pinus radiata,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+176,Rhizopogon rubescens,Rhizopogon roseolus,Chu-Chou 1979,0,1,0,0,Pinus radiata,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+177,Rhizopogon rubescens,Rhizopogon roseolus,Cunningham 1942,1,0,0,0,Pinus spp.,1,0,Tasmania,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+178,Rhizopogon rubescens,Rhizopogon roseolus,Giachini et al. 2000,0,1,0,0,Pinus taeda,1,0,"Santa Catarina, Brazil",15,850,-27.5833333,-50.3666666666666,3.08,4.05,36.7,16,1700,Subtropical forest,Climatic variables and pH informed in the paper
+179,Rhizopogon rubescens,Rhizopogon roseolus,Grgurinovic 1997,1,0,0,0,Pinus sp.,1,0,Australia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+180,Rhizopogon subolivascens,Valid,Barroetaveña et al. 2005,1,0,0,0,Pinus ponderosa,1,0,"Patagonia, Argentina",40,650,-42.9166667,-71.35,3.13,6.1,52.9,9.8,750,Steppe grassland,Climatic variables informed in the paper
+181,Rhizopogon villosulus,Valid,Ivory 1980,1,0,0,0,Pinus caribaea,1,0,Malaysia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+182,Rhizopogon vulgaris,Valid,Álvarez et al. 1993,1,0,0,0,Pinus spp.,1,0,Spain,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+183,Rhizopogon vulgaris,Valid,Chapela et al. 2001,0,1,0,0,Pinus radiata,1,0,Ecuador,30,3600,-1.4083333,-79.0111111111111,3.78,6.1,51.2,8,957,Highland grassland,Some soil variables informed in the paper (C)
+184,Rhizopogon vulgaris,Valid,Dunstan et al. 1998,1,0,0,0,Pinus sp. ,1,0,Australia,22,,-34,115,1.57,6.4,41.5,NA,NA,Grassland ,
+185,Rhizopogon vulgaris,Valid,Giachini et al. 2000,0,1,0,0,Pinus taeda,1,0,"Santa Catarina, Brazil",15,850,-27.5833333,-50.3666666666666,3.08,4.05,36.7,16,1700,Subtropical forest,Climatic variables and pH informed in the paper
+186,Rhizopogon vulgaris,Valid,Grgurinovic 1997,1,0,0,0,Pinus sp.,1,0,Australia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+187,Rhizopogon vulgaris,Valid,Rubio et al. 2006,1,0,0,0,Pinus radiata,1,0,Spain,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+188,Rhizopogon zelleri,Valid,Giachini et al. 2000,0,1,0,0,Pinus taeda,1,0,"Santa Catarina, Brazil",15,850,-27.5833333,-50.3666666666666,3.08,4.05,36.7,16,1700,Subtropical forest,Climatic variables and pH informed in the paper
+189,Russula albidula,Valid,Wright & Albertó 2002,1,0,0,0,Pinus sp. ,1,0,Argentina,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+190,Russula amethystina,Valid,Wright & Albertó 2002,1,0,0,0,Pinus sp. ,1,0,Argentina,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+191,Russula capensis,Valid,Levin et al. 1985,1,0,0,0,Pinus spp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+192,Russula capensis,Valid,Lundquist 1987a,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+193,Russula capensis,Valid,Pearson 1950,1,0,0,0,Pinus spp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+194,Russula capensis,Valid,Stephens & Kidd 1968,1,0,0,0,Pinus spp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+195,Russula consobrina,Valid,De Meijer 2001,1,0,0,0,Pinus sp.,1,0,Brazil,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+196,Russula consobrina,Valid,Sobestiansky 2005,1,0,0,0,Pinus sp.,1,0,Brazil,40,565,-29.3666667,-51.1333333333333,2.68,5.6,28.1,17.2,1804,Subtropical forest,
+197,Russula crustosa,Valid,Shaochang et al. 1995,1,0,0,0,Pinus taeda,1,0,"Gizhou province, China",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+198,Russula cyanoxantha,Valid,Lundquist 1987a,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+199,Russula delica,Valid,Shaochang et al. 1995,1,0,0,0,Pinus elliotti,1,0,"Gizhou province, China",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+200,Russula fallax,Valid,Pearson 1950,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+201,Russula grisea,Valid,Pearson 1950,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+202,Russula lutea,Valid,Wright & Albertó 2002,1,0,0,0,Pinus sp. ,1,0,Argentina,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+203,Russula pectinata,Valid,Lundquist 1986,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+204,Russula pectinatoides,Valid,Stevenson 1981,1,0,0,0,Pinus radiata,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+205,Russula pectinatoides,Valid,Wright & Albertó 2002,1,0,0,0,Pinus sp. ,1,0,Argentina,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+206,Russula sardonia,Valid,Garrido 1982,0,1,0,0,Pinus spp.,1,0,Chile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+207,Russula sardonia,Valid,Garrido 1986,0,1,0,0,Pinus spp.,1,0,Chile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+208,Russula sardonia,Valid,Lundquist 1987a,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+209,Russula sardonia,Valid,Pearson 1950,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+210,Russula sardonia,Valid,Petersen et al. 1994,0,1,0,0,Pinus sp.,1,0,Faroe Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+211,Russula sororia,Valid,Lundquist 1987a,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+212,Russula turci,Valid,Wright & Albertó 2002,1,0,0,0,Pinus sp. ,1,0,Argentina,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+213,Russula xerampelina group,Valid,Levin et al. 1985,1,0,0,0,Pinus spp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+214,Russula xerampelina group,Valid,Pearson 1950,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+215,Scleroderma albidum,Valid,Giachini et al. 2000,0,1,0,0,Pinus spp.,1,0,"Santa Catarina, Brazil",19,0,-26.3666667,-48.7166663888888,4.32,4.2,65.9,22,1700,Subtropical forest,Climatic variables and pH informed in the paper
+216,Scleroderma areolatum,Valid,Barroetaveña et al. 2005,1,0,0,0,Pinus ponderosa,1,0,"Patagonia, Argentina",40,650,-42.9166667,-71.35,3.13,6.1,52.9,9.8,750,Steppe grassland,Climatic variables informed in the paper
+217,Scleroderma bovista,Valid,Barroetaveña et al. 2005,1,0,0,0,Pinus ponderosa,1,0,"Patagonia, Argentina",40,650,-42.9166667,-71.35,3.13,6.1,52.9,9.8,750,Steppe grassland,Climatic variables informed in the paper
+218,Scleroderma bovista,Valid,Birch 1937,1,0,0,0,Pinus radiata,1,0,"North Island, New Zealand ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Some soil variables informed in the paper (C/N/P)
+219,Scleroderma bovista,Valid,Chu-Chou & Grace 1983,0,1,0,0,Pinus radiata,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+220,Scleroderma bovista,Valid,Chu-Chou 1979,0,1,0,0,Pinus radiata,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+221,Scleroderma bovista,Valid,Giachini et al. 2000,0,1,0,0,Pinus spp.,1,0,"Santa Catarina, Brazil",19,0,-26.3666667,-48.7166663888888,4.32,4.2,65.9,22,1700,Subtropical forest,Climatic variables and pH informed in the paper
+222,Scleroderma bovista,Valid,Giachini et al. 2000,0,1,0,0,Pinus spp.,1,0,"Santa Catarina, Brazil",19,0,-26.3666667,-48.7166663888888,4.32,4.2,65.9,22,1700,Subtropical forest,Climatic variables and pH informed in the paper
+223,Scleroderma bovista,Valid,Giachini et al. 2004,0,1,0,0,Pinus taeda,1,0,"Santa Catarina, Brazil",9,800,-27.75,-49.5,3.11,4.8,36.6,16,1700,Subtropical forest,Climatic variables and pH informed in the paper
+224,Scleroderma bovista,Valid,Gibson 1963,1,0,0,0,Pinus spp.,1,0,Kenya,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+225,Scleroderma cepa,Valid,Lundquist 1986,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+226,Scleroderma citrinum,Valid,Chu-Chou & Grace 1983,0,1,0,0,Pinus radiata,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+227,Scleroderma citrinum,Valid,Chu-Chou 1979,0,1,0,0,Pinus radiata,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+228,Scleroderma citrinum,Valid,De Meijer 2001,1,0,0,0,Pinus sp.,1,0,Brazil,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+229,Scleroderma citrinum,Valid,Garrido 1986,0,1,0,0,Pinus radiata,1,0,Chile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+230,Scleroderma citrinum,Valid,Giachini et al. 2000,0,1,0,0,Pinus taeda,1,0,"Santa Catarina, Brazil",15,850,-27.5833333,-50.3666666666666,3.08,4.05,36.7,16,1700,Subtropical forest,Climatic variables and pH informed in the paper
+231,Scleroderma citrinum,Valid,Giachini et al. 2004,0,1,0,0,Pinus spp.,1,0,"Santa Catarina, Brazil",9,800,-27.75,-49.5,3.11,4.8,36.6,16,1700,Subtropical forest,Climatic variables and pH informed in the paper
+232,Scleroderma citrinum,Valid,Sobestiansky 2005,1,0,0,0,Pinus sp.,1,0,Brazil,40,565,-29.3666667,-51.1333333333333,2.68,5.6,28.1,17.2,1804,Subtropical forest,
+233,Scleroderma floridanum,Valid,Giachini et al. 2000,0,1,0,0,Pinus spp.,1,0,"Santa Catarina, Brazil",19,0,-26.3666667,-48.7166663888888,4.32,4.2,65.9,22,1700,Subtropical forest,Climatic variables and pH informed in the paper
+234,Scleroderma uruguayense,Valid,Giachini et al. 2000,0,1,0,0,Pinus taeda,1,0,"Santa Catarina, Brazil",15,850,-27.5833333,-50.3666666666666,3.08,4.05,36.7,16,1700,Subtropical forest,Climatic variables and pH informed in the paper
+235,Scleroderma verrucosum,Valid,Chu-Chou & Grace 1983,0,1,0,0,Pinus radiata,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+236,Scleroderma verrucosum,Valid,Chu-Chou 1979,0,1,0,0,Pinus radiata,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+237,Scleroderma verrucosum,Valid,Giachini et al. 2000,0,1,0,0,Pinus elliotti,1,0,"Santa Catarina, Brazil",19,0,-26.3666667,-48.7166663888888,4.32,4.2,65.9,22,1700,Subtropical forest,Climatic variables and pH informed in the paper
+238,Scleroderma verrucosum,Valid,Lundquist 1986,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+239,Setchelliogaster tenuipes,Valid,Lazo 1972,1,0,0,0,Pinus radiata,1,0,Chile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+240,Suillus bovinus,Valid,Grgurinovic 1997,1,0,0,0,Pinus pinaster,1,0,Australia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+241,Suillus bovinus,Valid,Kost 2002,1,0,0,0,Pinus sp.,1,0,Kenya,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+242,Suillus bovinus,Valid,Lundquist 1987a,1,0,0,0,Pinus spp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+243,Suillus bovinus,Valid,Mikola 1969,0,1,0,0,Pinus spp.,1,0,Australia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+244,Suillus bovinus,Valid,Petersen et al. 1994,0,1,0,0,Pinus sp.,1,0,Faroe Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+245,Suillus bovinus,Valid,Watling & Gregory 1989,1,0,0,0,Pinus sp. ,1,0,Australia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+246,Suillus brevipes,Valid,Grgurinovic 1997,1,0,0,0,Pinus sp.,1,0,Australia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+247,Suillus brevipes,Valid,Hemmes & Desjardin 2002,1,0,0,0,Pinus radiata,1,0,"Hawaii, USA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+248,Suillus brevipes,Valid,Knudsen & Borgen 1987,1,0,0,0,Pinus contorta ,1,0,Greenland,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+249,Suillus brevipes,Valid,McNabb 1968,1,0,0,0,Pinus radiata,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+250,Suillus brevipes,Valid,McNabb 1968,1,0,0,0,Pinus radiata,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+251,Suillus brevipes,Valid,Miller et al. 2000,0,1,0,0,Pinus caribaea,1,0,Puerto Rico,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+252,Suillus cothurnatus,Valid,Giachini et al. 2000,0,1,0,0,Pinus spp.,1,0,"Santa Catarina, Brazil",19,0,-26.3666667,-48.7166663888888,4.32,4.2,65.9,22,1700,Subtropical forest,Climatic variables and pH informed in the paper
+253,Suillus granulatus,Valid,Buyck 1994,1,0,0,0,Pinus sp.,1,0,Burundi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Some soil variables informed in the paper (C/N/P)
+254,Suillus granulatus,Valid,CABI Bioscience 2008,1,0,0,0,Pinus spp.,1,0,Malawi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Some soil variables informed in the paper (C/N/P)
+255,Suillus granulatus,Valid,Chaudhry 1980,1,0,0,0,Pinus caribaea,1,0,Uganda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+256,Suillus granulatus,Valid,Chu-Chou 1979,0,1,0,0,Pinus radiata,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+257,Suillus granulatus,Valid,Dunstan et al. 1998,1,0,0,0,Pinus sp. ,1,0,Australia,22,,-34,115,1.57,6.4,41.5,NA,NA,Grassland ,
+258,Suillus granulatus,Valid,Garrido 1986,0,1,0,0,Pinus radiata,1,0,Chile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+259,Suillus granulatus,Valid,Giachini et al. 2000,0,1,0,0,Pinus spp.,1,0,"Santa Catarina, Brazil",19,0,-26.3666667,-48.7166663888888,4.32,4.2,65.9,22,1700,Subtropical forest,Climatic variables and pH informed in the paper
+260,Suillus granulatus,Valid,Giachini et al. 2004,0,1,0,0,Pinus taeda,1,0,"Santa Catarina, Brazil",9,800,-27.75,-49.5,3.11,4.8,36.6,16,1700,Subtropical forest,Climatic variables and pH informed in the paper
+261,Suillus granulatus,Valid,Grgurinovic 1997,1,0,0,0,Pinus spp.,1,0,Australia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+262,Suillus granulatus,Valid,Härkönen et al. 1994,0,1,0,0,Pinus spp.,1,0,Tanzania,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+263,Suillus granulatus,Valid,Hemmes & Desjardin 2002,1,0,0,0,Pinus elliotti,1,0,"Hawaii, USA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+264,Suillus granulatus,Valid,Jalink & Nauta 1993,1,0,0,0,Pinus virginiana,1,0,"Malvinas (Falkland Islands), Argentina",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+265,Suillus granulatus,Valid,Kost 2002,1,0,0,0,Pinus sp.,1,0,Kenya,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+266,Suillus granulatus,Valid,Lamb & Richards 1970,1,0,0,0,Pinus spp.,1,0,Australia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+267,Suillus granulatus,Valid,Lundquist 1986,1,0,0,0,Pinus spp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+268,Suillus granulatus,Valid,Lundquist 1987a,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+269,Suillus granulatus,Valid,Lundquist 1987b,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+270,Suillus granulatus,Valid,McNabb 1968,1,0,0,0,Pinus spp.,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+271,Suillus granulatus,Valid,Mikola 1969,0,1,0,0,Pinus spp.,1,0,"Australia, South Africa, Brazil",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+272,Suillus granulatus,Valid,Morris 1990,1,0,0,0,Pinus sp.,1,0,Malawi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+273,Suillus granulatus,Valid,Pegler 1977,1,0,0,0,Pinus spp.,1,0,Tanzania,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+274,Suillus granulatus,Valid,Petersen et al. 1994,0,1,0,0,Pinus sp.,1,0,Faroe Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+275,Suillus granulatus,Valid,Putzke et al. 1994,1,0,0,0,Pinus sp. ,1,0,Brazil,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+276,Suillus granulatus,Valid,Ryvarden et al. 1994,1,0,0,0,Pinus spp. ,1,0,Zambia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+277,Suillus granulatus,Valid,Shepherd & Totterdell 1988,1,0,0,0,Pinus sp.,1,0,Australia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+278,Suillus granulatus,Valid,Stevenson 1961,1,0,0,0,Pinus sp.,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+279,Suillus granulatus,Valid,Watling & de Meijer 1997,0,1,0,0,Pinus spp.,1,0,Brazil,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+280,Suillus luteus,Valid,Barroetaveña et al. 2005,0,1,0,0,Pinus ponderosa,1,0,"Patagonia, Argentina",40,650,-42.9166667,-71.35,3.13,6.1,52.9,9.8,750,Steppe grassland,Climatic variables informed in the paper
+281,Suillus luteus,Valid,Birch 1937,1,0,0,0,Pinus radiata,1,0,"North Island, New Zealand ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Some soil variables informed in the paper (C/N/P)
+282,Suillus luteus,Valid,Both 1993,1,0,0,0,Pinus sylvestris,1,0,North America,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Some soil variables informed in the paper (C/N/P)
+283,Suillus luteus,Valid,Bougher & Syme 1998,1,0,0,0,Pinus radiata,1,0,South Australia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Some soil variables informed in the paper (C/N/P)
+284,Suillus luteus,Valid,Buyck 1994,1,0,0,0,Pinus sp.,1,0,Burundi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Some soil variables informed in the paper (C/N/P)
+285,Suillus luteus,Valid,Chapela et al. 2001,0,1,0,0,Pinus radiata,1,0,Ecuador,30,3600,-1.4083333,-79.0111111111111,3.78,6.1,51.2,8,957,Highland grassland,Some soil variables informed in the paper (C)
+286,Suillus luteus,Valid,Chu-Chou 1979,0,1,0,0,Pinus radiata,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+287,Suillus luteus,Valid,Dennis 1970,1,0,0,0,Pinus sp. ,1,0,Colombia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+288,Suillus luteus,Valid,Dunstan et al. 1998,1,0,0,0,Pinus sp. ,1,0,Australia,22,,-34,115,1.57,6.4,41.5,NA,NA,Grassland ,
+289,Suillus luteus,Valid,Franco-Molano et al. 2000,1,0,0,0,Pinus sp.,1,0,Colombia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+290,Suillus luteus,Valid,Garrido 1983,0,1,0,0,Pinus radiata,1,0,Chile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+291,Suillus luteus,Valid,Garrido 1986,0,1,0,0,Pinus spp.,1,0,Chile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+292,Suillus luteus,Valid,Garrido et al. 1983,0,1,0,0,Pinus radiata,1,0,Chile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+293,Suillus luteus,Valid,Gibson 1963,1,0,0,0,Pinus spp.,1,0,Kenya,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+294,Suillus luteus,Valid,Grgurinovic 1997,1,0,0,0,Pinus spp.,1,0,Australia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+295,Suillus luteus,Valid,Grund & Harrison 1976,1,0,0,0,Pinus sylvestris,1,0,"Nova Scotia, Canada",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+296,Suillus luteus,Valid,Hedger 1986,1,0,0,0,Pinus sp.,1,0,Ecuador,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+297,Suillus luteus,Valid,Kost 2002,1,0,0,0,Pinus sp. ,1,0,Kenya,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+298,Suillus luteus,Valid,Lavorato 1999,1,0,0,0,Pinus radiata,1,0,Italy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+299,Suillus luteus,Valid,McNabb 1968,1,0,0,0,Pinus spp.,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+300,Suillus luteus,Valid,Mikola 1969,0,1,0,0,Pinus spp.,1,0,"Australia, South Africa, Chile",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+301,Suillus luteus,Valid,Peck 1887,1,0,0,0,Pinus sp.,1,0,USA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+302,Suillus luteus,Valid,Pegler 1977,1,0,0,0,Pinus patula,1,0,Tanzania,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+303,Suillus luteus,Valid,Peredo et al. 1983,0,1,0,0,Pinus radiata,1,0,Chile,30,151,-40.25,-73.25,6.44,5.6,107.1,11.1,1647,Temperate forest,
+304,Suillus luteus,Valid,Petersen et al. 1994,0,1,0,0,Pinus sp.,1,0,Faroe Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+305,Suillus luteus,Valid,Putzke et al. 1994,1,0,0,0,Pinus sp. ,1,0,Brazil,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+306,Suillus luteus,Valid,Shepherd & Totterdell 1988,1,0,0,0,Pinus sp.,1,0,Australia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+307,Suillus luteus,Valid,Singer 1953,1,0,0,0,Pinus sp. ,1,0,"Patagonia, Argentina",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+308,Suillus luteus,Valid,Smith & Thiers 1964,1,0,0,0,Pinus sp.,1,0,USA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+309,Suillus luteus,Valid,Smith & Thiers 1964,1,0,0,0,Pinus sylvestris,1,0,USA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+310,Suillus luteus,Valid,Sobestiansky 2005,1,0,0,0,Pinus sp.,1,0,Brazil,40,565,-29.3666667,-51.1333333333333,2.68,5.6,28.1,17.2,1804,Subtropical forest,
+311,Suillus luteus,Valid,Stevenson 1961,1,0,0,0,Pinus radiata,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+312,Suillus luteus,Valid,Watling & de Meijer 1997,0,1,0,0,Pinus elliotti,1,0,Brazil,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+313,Suillus pictus,Valid,Bas 1973,1,0,0,0,Pinus strobus,1,0,Germany,37,NA,NA,NA,0.33,NA,5.7,NA,NA,Temperate forest ,Some soil variables informed in the paper (C/N/P)
+314,Suillus pictus,Valid,Dieker 2007,1,0,0,0,Pinus strobus,1,0,The Netherlands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+315,Suillus pictus,Valid,Estadès & Lannoy 2004,1,0,0,0,Pinus strobus,1,0,Europe,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+316,Suillus pictus,Valid,Krieglsteiner 1991,1,0,0,0,Pinus strobus,1,0,Germany,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+317,Suillus placidus,Valid,Arnolds 1995,1,0,0,0,Pinus strobus,1,0,The Netherlands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+318,Suillus placidus,Valid,Breitenbach & Kränzlin 1991,1,0,0,0,Pinus spp.,1,0,Switzerland,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Some soil variables informed in the paper (C/N/P)
+319,Suillus placidus,Valid,Derbsch & Schmitt 1987,1,0,0,0,Pinus strobus,1,0,Germany,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+320,Suillus placidus,Valid,Favre 1960,1,0,0,0,Pinus spp.,1,0,Switzerland,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+321,Suillus placidus,Valid,Jamoni 1990,1,0,0,0,Pinus strobus,1,0,Italy ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+322,Suillus placidus,Valid,Kallio & Heikkilä 1992,1,0,0,0,Pinus strobus,1,0,Sweeden ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+323,Suillus placidus,Valid,Keller 1992,1,0,0,0,Pinus cembra,1,0,Austria,NA,1350,47.0952778,10.82,4.74,5.4,87.9,NA,NA,NA,
+324,Suillus placidus,Valid,Kreisel 1987,1,0,0,0,Pinus strobus,1,0,Germany,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+325,Suillus placidus,Valid,Krieglsteiner 1991,1,0,0,0,Pinus strobus,1,0,Germany,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+326,Suillus placidus,Valid,Legon & Henrici 2005,1,0,0,0,Pinus strobus,1,0,England,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+327,Suillus placidus,Valid,Rune 2007,1,0,0,0,Pinus cembra,1,0,Norway,NA,10,56.0293333,12.0506666666666,3.78,5.7,104.4,NA,NA,NA,
+328,Suillus placidus,Valid,Rune 2007,1,0,0,0,Pinus strobus,1,0,Denmark,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+329,Suillus placidus,Valid,Strandberg 1995,1,0,0,0,Pinus strobus,1,0,Denmark,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+330,Suillus punctipes,Valid,Estadès & Lannoy 2004,1,0,0,0,Pinus strobus,1,0,Europe,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+331,Suillus salmonicolor,Valid,Hemmes & Desjardin 2002,1,0,0,0,Pinus elliotti,1,0,"Hawaii, USA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+332,Suillus salmonicolor,Valid,Reid & Eicker 2000,0,1,0,0,Pinus sp. ,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+333,Suillus salmonicolor,Valid,Sobestiansky 2005,1,0,0,0,Pinus sp.,1,0,Brazil,40,565,-29.3666667,-51.1333333333333,2.68,5.6,28.1,17.2,1804,Subtropical forest,
+334,Suillus salmonicolor,Valid,Watling & de Meijer 1997,0,1,0,0,Pinus spp.,1,0,Brazil,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+335,Suillus sibiricus,Valid,Pegler 1977,1,0,0,0,Pinus patula,1,0,Tanzania,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+336,Suillus subacerbus,Valid,McNabb 1968,1,0,0,0,Pinus radiata,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+337,Suillus subaureus,Valid,Putzke et al. 1994,1,0,0,0,Pinus sp. ,1,0,Brazil,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+338,Thelephora americana,Valid,Giachini et al. 2000,0,1,0,0,Pinus spp.,1,0,"Santa Catarina, Brazil",19,0,-26.3666667,-48.7166663888888,4.32,4.2,65.9,22,1700,Subtropical forest,Climatic variables and pH informed in the paper
+339,Thelephora atra,Valid,Barroetaveña et al. 2005,0,1,0,0,Pinus ponderosa,1,0,"Patagonia, Argentina",40,650,-42.9166667,-71.35,3.13,6.1,52.9,9.8,750,Steppe grassland,Climatic variables informed in the paper
+340,Thelephora intybacea,Valid,Lundquist 1986,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+341,Thelephora intybacea,Valid,Lundquist 1987a,1,0,0,0,Pinus spp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+342,Thelephora intybacea,Valid,Lundquist 1987b,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+343,Thelephora penicillata,Valid,Lundquist 1986,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+344,Thelephora penicillata,Valid,Lundquist 1987a,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+345,Thelephora terrestris,Valid,Barroetaveña et al. 2005,0,1,0,0,Pinus ponderosa,1,0,"Patagonia, Argentina",40,650,-42.9166667,-71.35,3.13,6.1,52.9,9.8,750,Steppe grassland,Climatic variables informed in the paper
+346,Thelephora terrestris,Valid,Birch 1937,1,0,0,0,Pinus radiata,1,0,"North Island, New Zealand ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Some soil variables informed in the paper (C/N/P)
+347,Thelephora terrestris,Valid,Chapela et al. 2001,0,1,0,0,Pinus radiata,1,0,Ecuador,30,3600,-1.4083333,-79.0111111111111,3.78,6.1,51.2,8,957,Highland grassland,Some soil variables informed in the paper (C)
+348,Thelephora terrestris,Valid,Chu-Chou & Grace 1990,1,0,0,0,Pinus radiata,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+349,Thelephora terrestris,Valid,Chu-Chou 1979,1,0,0,0,Pinus radiata,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+350,Thelephora terrestris,Valid,De Meijer 2001,1,0,0,0,Pinus sp.,1,0,Brazil,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+351,Thelephora terrestris,Valid,Dunstan et al. 1998,1,0,0,0,Pinus sp. ,1,0,Australia,22,,-34,115,1.57,6.4,41.5,NA,NA,Grassland ,
+352,Thelephora terrestris,Valid,Garrido 1986,0,1,0,0,Pinus radiata,1,0,Chile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+353,Thelephora terrestris,Valid,Giachini et al. 2000,0,1,0,0,Pinus taeda,1,0,"Santa Catarina, Brazil",15,850,-27.5833333,-50.3666666666666,3.08,4.05,36.7,16,1700,Subtropical forest,Climatic variables and pH informed in the paper
+354,Thelephora terrestris,Valid,Hedger 1986,1,0,0,0,Pinus radiata,1,0,Ecuador,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+355,Thelephora terrestris,Valid,Hemmes & Desjardin 2002,1,0,0,0,Pinus sp.,1,0,"Hawaii, USA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+356,Thelephora terrestris,Valid,Lamb & Richards 1970,1,0,0,0,Pinus spp.,1,0,Australia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+357,Thelephora terrestris,Valid,Lundquist 1986,1,0,0,0,Pinus spp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+358,Thelephora terrestris,Valid,Lundquist 1987a,1,0,0,0,Pinus spp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+359,Thelephora terrestris,Valid,Lundquist 1987b,1,0,0,0,Pinus spp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+360,Tricholoma equestre,Valid,Wright & Albertó 2002,1,0,0,0,Pinus sp. ,1,0,Argentina,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+361,Tricholoma fagnani,Valid,Garrido 1986,0,1,0,0,Pinus radiata,1,0,Chile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+362,Tricholoma meridianum,Valid,Pearson 1950,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+363,Tricholoma muricatum,Valid,Barroetaveña et al. 2005,0,1,0,0,Pinus ponderosa,1,0,"Patagonia, Argentina",40,650,-42.9166667,-71.35,3.13,6.1,52.9,9.8,750,Steppe grassland,Climatic variables informed in the paper
+364,Tricholoma myomyces,Valid,Garrido 1986,0,1,0,0,Pinus radiata,1,0,Chile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+365,Tricholoma pessundatum,Valid,Chu-Chou & Grace 1990,0,1,0,0,Pinus radiata,1,0,New Zealand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+366,Tricholoma portentosum,Valid,Wright & Albertó 2002,1,0,0,0,Pinus sp. ,1,0,Argentina,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+367,Tricholoma saponaceum,Valid,Lundquist 1987a,1,0,0,0,Pinus sp.,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+368,Tricholoma scalpturatum,Valid,Garrido 1986,0,1,0,0,Pinus radiata,1,0,Chile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+369,Tricholoma terreum,Valid,Wright & Albertó 2002,1,0,0,0,Pinus sp. ,1,0,Argentina,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+370,Tuber maculatum,Valid,Trappe & Cázares 2000,0,1,0,0,Pinus spp.,1,0,"New Zealand, Australia, Argentina",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+371,Tuber rapaeodorum,Valid,Marais & Kotzé 1977,1,0,0,0,Pinus patula,1,0,South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+372,Xerocomus chrysenteron,Valid,Garrido 1983,0,1,0,0,Pinus radiata,1,0,Chile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+373,Xerocomus chrysenteron,Valid,Garrido 1986,0,1,0,0,Pinus radiata,1,0,Chile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+374,Amanita rubescens ,Valid,Collier & bidartondo 2009,0,0,1,0,Pinus sylvestris,1,1,"Lowland heathlands, England -Check",50,64,50.6430556,-1.98166666666666,3.07,6.4,29,10.1,811,Lowland heathland,
+375,Cenococcum geophillum,Valid,Collier & bidartondo 2009,0,0,1,0,Pinus sylvestris,1,1,"Lowland heathlands, England -Check",50,64,50.6430556,-1.98166666666666,3.07,6.4,29,10.1,811,Lowland heathland,
+376,Rhizopogon luteolus,Valid,Collier & bidartondo 2009,0,0,1,1,Pinus sylvestris,1,1,"Lowland heathlands, England -Check",50,42,50.8308333,-1.73722222222222,2.89,6.8,30.1,9.9,799,Lowland heathland,
+377,Russula emetica,Valid,Collier & bidartondo 2009,0,0,1,0,Pinus sylvestris,1,1,"Lowland heathlands, England -Check",50,64,50.6430556,-1.98166666666666,3.07,6.4,29,10.1,811,Lowland heathland,
+378,Scleroderma citrinum,Valid,Collier & bidartondo 2009,0,0,1,0,Pinus sylvestris,1,1,"Lowland heathlands, England -Check",50,64,50.6430556,-1.98166666666666,3.07,6.4,29,10.1,811,Lowland heathland,
+379,Suillus bovinus,Valid,Collier & bidartondo 2009,0,0,1,1,Pinus sylvestris,1,1,"Lowland heathlands, England -Check",50,42,50.8308333,-1.73722222222222,2.89,6.8,30.1,9.9,799,Lowland heathland,
+380,Suillus variegatus,Valid,Collier & bidartondo 2009,0,0,1,1,Pinus sylvestris,1,1,"Lowland heathlands, England -Check",50,42,50.8308333,-1.73722222222222,2.89,6.8,30.1,9.9,799,Lowland heathland,
+381,Thelephora terrestris,Valid,Collier & bidartondo 2009,0,0,1,0,Pinus sylvestris,1,1,"Lowland heathlands, England -Check",50,64,50.6430556,-1.98166666666666,3.07,6.4,29,10.1,811,Lowland heathland,
+382,Atheliaceae sp. ,NA,Collier & bidartondo 2009,0,0,1,0,Pinus sylvestris,1,1,"Lowland heathlands, England -Check",50,64,50.6430556,-1.98166666666666,3.07,6.4,29,10.1,811,Lowland heathland,
+383,Laccaria sp,NA,Collier & bidartondo 2009,0,0,1,0,Pinus sylvestris,1,1,"Lowland heathlands, England -Check",50,64,50.6430556,-1.98166666666666,3.07,6.4,29,10.1,811,Lowland heathland,
+384,Lactarius sp,NA,Collier & bidartondo 2009,0,0,1,0,Pinus sylvestris,1,1,"Lowland heathlands, England -Check",50,64,50.6430556,-1.98166666666666,3.07,6.4,29,10.1,811,Lowland heathland,
+385,Tomentella sp. ,NA,Collier & bidartondo 2009,0,0,1,0,Pinus sylvestris,1,1,"Lowland heathlands, England -Check",50,64,50.6430556,-1.98166666666666,3.07,6.4,29,10.1,811,Lowland heathland,
+386,Xerocosmus sp. ,NA,Collier & bidartondo 2009,0,0,1,0,Pinus sylvestris,1,1,"Lowland heathlands, England -Check",50,64,50.6430556,-1.98166666666666,3.07,6.4,29,10.1,811,Lowland heathland,
+387,Cenococcum geophillum,Valid,Nuñez et al 2009 ,0,0,1,1,Pinus contorta ,1,1,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,4.87,6.45,78.69,10.1,1300,Temperate forest,Climatic and soil variables (all but OM)  informed in the paper
+388,Cortinariaceae sp. ,NA,Nuñez et al 2009 ,0,0,1,1,Pinus contorta ,1,1,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,4.87,6.45,78.69,10.1,1300,Temperate forest,Climatic and soil variables (all but OM)  informed in the paper
+389,Suillus luteus ,Valid,Nuñez et al 2009 ,0,0,1,1,Pinus contorta ,1,1,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,4.87,6.45,78.69,10.1,1300,Temperate forest,Climatic and soil variables (all but OM)  informed in the paper
+390,Hebeloma sp.,NA,Nuñez et al 2009 ,0,0,1,1,Pinus contorta ,1,1,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,4.87,6.45,78.69,10.1,1300,Temperate forest,Climatic and soil variables (all but OM)  informed in the paper
+391,Wilcoxina mikolae ,Valid,Nuñez et al 2009 ,0,0,1,1,Pinus contorta ,1,1,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,4.87,6.45,78.69,10.1,1300,Temperate forest,Climatic and soil variables (all but OM)  informed in the paper
+392,Atheliaceae sp. ,NA,Nuñez et al 2009 ,0,0,1,0,Pinus contorta ,1,1,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,4.87,6.45,78.69,10.1,1300,Temperate forest,Climatic and soil variables (all but OM)  informed in the paper
+393,Cadophora findlandica,Hyaloscypha finlandica,Nuñez et al 2009 ,0,0,1,0,Pinus contorta ,1,1,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,4.87,6.45,78.69,10.1,1300,Temperate forest,Climatic and soil variables (all but OM)  informed in the paper
+394,Lactarius quieticolor,Valid,Nuñez et al 2009 ,0,0,1,0,Pinus contorta ,1,1,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,4.87,6.45,78.69,10.1,1300,Temperate forest,Climatic and soil variables (all but OM)  informed in the paper
+395,Thelephoraceae sp.,NA,Nuñez et al 2009 ,0,0,1,0,Pinus contorta ,1,1,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,4.87,6.45,78.69,10.1,1300,Temperate forest,Climatic and soil variables (all but OM)  informed in the paper
+396,Suillus luteus ,Valid,Nuñez et al 2009 ,0,0,1,1,Pinus ponderosa,1,1,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,4.87,6.45,78.69,10.1,1300,Temperate forest,Climatic and soil variables (all but OM)  informed in the paper
+397,Thelephora terrestris ,Valid,Nuñez et al 2009 ,0,0,1,1,Pinus ponderosa,1,1,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,4.87,6.45,78.69,10.1,1300,Temperate forest,Climatic and soil variables (all but OM)  informed in the paper
+398,Wilcoxina mikolae ,Valid,Nuñez et al 2009 ,0,0,1,1,Pinus ponderosa,1,1,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,4.87,6.45,78.69,10.1,1300,Temperate forest,Climatic and soil variables (all but OM)  informed in the paper
+399,Atheliaceae sp. ,NA,Nuñez et al 2009 ,0,0,1,0,Pinus ponderosa,1,1,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,4.87,6.45,78.69,10.1,1300,Temperate forest,Climatic and soil variables (all but OM)  informed in the paper
+400,Cortinariaceae sp. ,NA,Nuñez et al 2009 ,0,0,1,0,Pinus ponderosa,1,1,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,4.87,6.45,78.69,10.1,1300,Temperate forest,Climatic and soil variables (all but OM)  informed in the paper
+401,Hebeloma sp.,NA,Nuñez et al 2009 ,0,0,1,0,Pinus ponderosa,1,1,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,4.87,6.45,78.69,10.1,1300,Temperate forest,Climatic and soil variables (all but OM)  informed in the paper
+402,Lactarius quieticolor,Valid,Nuñez et al 2009 ,0,0,1,0,Pinus ponderosa,1,1,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,4.87,6.45,78.69,10.1,1300,Temperate forest,Climatic and soil variables (all but OM)  informed in the paper
+403,Sebaninaceae sp. ,NA,Nuñez et al 2009 ,0,0,1,0,Pinus ponderosa,1,1,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,4.87,6.45,78.69,10.1,1300,Temperate forest,Climatic and soil variables (all but OM)  informed in the paper
+404,Atheliaceae sp. ,NA,Dickie et al 2010 ,0,0,1,Not assessed,Pinus contorta ,1,0,"Canterbury, New Zealand ",15,1000,-43.1533333,171.73,4.19,5.4,119.7,12.15,1447,Temperate Forest ,Climatic variables informed in the paper
+405,Amanita muscaria,Valid,Dickie et al 2010 ,0,0,1,Not assessed,Pinus contorta ,1,0,"Canterbury, New Zealand ",15,1000,-43.1533333,171.73,4.19,5.4,119.7,12.15,1447,Temperate Forest ,Climatic variables informed in the paper
+406,Cantharellales sp. ,NA,Dickie et al 2010 ,0,0,1,Not assessed,Pinus contorta ,1,0,"Canterbury, New Zealand ",15,1000,-43.1533333,171.73,4.19,5.4,119.7,12.15,1447,Temperate Forest ,Climatic variables informed in the paper
+407,Cenococcum geophillum,Valid,Dickie et al 2010 ,0,0,1,Not assessed,Pinus contorta ,1,0,"Canterbury, New Zealand ",15,1000,-43.1533333,171.73,4.19,5.4,119.7,12.15,1447,Temperate Forest ,Climatic variables informed in the paper
+408,Suillus granulatus,Valid,Dickie et al 2010 ,0,0,1,Not assessed,Pinus contorta ,1,0,"Canterbury, New Zealand ",15,1000,-43.1533333,171.73,4.19,5.4,119.7,12.15,1447,Temperate Forest ,Climatic variables informed in the paper
+409,Suillus luteus ,Valid,Dickie et al 2010 ,0,0,1,Not assessed,Pinus contorta ,1,0,"Canterbury, New Zealand ",15,1000,-43.1533333,171.73,4.19,5.4,119.7,12.15,1447,Temperate Forest ,Climatic variables informed in the paper
+410,Tomentella sp. ,NA,Dickie et al 2010 ,0,0,1,Not assessed,Pinus contorta ,1,0,"Canterbury, New Zealand ",15,1000,-43.1533333,171.73,4.19,5.4,119.7,12.15,1447,Temperate Forest ,Climatic variables informed in the paper
+411,Tricholoma sp.,NA,Dickie et al 2010 ,0,0,1,Not assessed,Pinus contorta ,1,0,"Canterbury, New Zealand ",15,1000,-43.1533333,171.73,4.19,5.4,119.7,12.15,1447,Temperate Forest ,Climatic variables informed in the paper
+412,Tylospora sp. ,NA,Dickie et al 2010 ,0,0,1,Not assessed,Pinus contorta ,1,0,"Canterbury, New Zealand ",15,1000,-43.1533333,171.73,4.19,5.4,119.7,12.15,1447,Temperate Forest ,Climatic variables informed in the paper
+413,Cenococcum geophillum,Valid,Kohout et al 2011 ,0,0,1,Not assessed,Pinus strobus,0,1,"Elbe Sandstone Mountains, Czech Republic ",222,300,49.9976667,14.5661666666666,1.95,6.3,23.7,8.8,565,Mountain forest,Climatic variables informed in the paper
+414,Inocybe sp. ,NA,Kohout et al 2011 ,0,0,1,Not assessed,Pinus strobus,0,1,"Elbe Sandstone Mountains, Czech Republic ",222,300,49.9976667,14.5661666666666,1.95,6.3,23.7,8.8,565,Mountain forest,Climatic variables informed in the paper
+415,Meliniomyces bicolor ,Hyaloscypha bicolor,Kohout et al 2011 ,0,0,1,Not assessed,Pinus strobus,0,1,"Elbe Sandstone Mountains, Czech Republic ",222,300,49.9976667,14.5661666666666,1.95,6.3,23.7,8.8,565,Mountain forest,Climatic variables informed in the paper
+416,Rhizopogon luteolus,Valid,Kohout et al 2011 ,0,0,1,Not assessed,Pinus strobus,0,1,"Elbe Sandstone Mountains, Czech Republic ",222,300,49.9976667,14.5661666666666,1.95,6.3,23.7,8.8,565,Mountain forest,Climatic variables informed in the paper
+417,Rhizopogon roseolus,Valid,Kohout et al 2011 ,0,0,1,Not assessed,Pinus strobus,0,1,"Elbe Sandstone Mountains, Czech Republic ",222,300,49.9976667,14.5661666666666,1.95,6.3,23.7,8.8,565,Mountain forest,Climatic variables informed in the paper
+418,Rhizopogon salebrosus,Valid,Kohout et al 2011 ,0,0,1,Not assessed,Pinus strobus,0,1,"Elbe Sandstone Mountains, Czech Republic ",222,300,49.9976667,14.5661666666666,1.95,6.3,23.7,8.8,565,Mountain forest,Climatic variables informed in the paper
+419,Suillus bovinus,Valid,Kohout et al 2011 ,0,0,1,Not assessed,Pinus strobus,0,1,"Elbe Sandstone Mountains, Czech Republic ",222,300,49.9976667,14.5661666666666,1.95,6.3,23.7,8.8,565,Mountain forest,Climatic variables informed in the paper
+420,Suillus granulatus,Valid,Kohout et al 2011 ,0,0,1,Not assessed,Pinus strobus,0,1,"Elbe Sandstone Mountains, Czech Republic ",222,300,49.9976667,14.5661666666666,1.95,6.3,23.7,8.8,565,Mountain forest,Climatic variables informed in the paper
+421,Suillus luteus ,Valid,Kohout et al 2011 ,0,0,1,Not assessed,Pinus strobus,0,1,"Elbe Sandstone Mountains, Czech Republic ",222,300,49.9976667,14.5661666666666,1.95,6.3,23.7,8.8,565,Mountain forest,Climatic variables informed in the paper
+422,Suillus variegatus,Valid,Kohout et al 2011 ,0,0,1,Not assessed,Pinus strobus,0,1,"Elbe Sandstone Mountains, Czech Republic ",222,300,49.9976667,14.5661666666666,1.95,6.3,23.7,8.8,565,Mountain forest,Climatic variables informed in the paper
+423,Thelephora terrestris ,Valid,Kohout et al 2011 ,0,0,1,Not assessed,Pinus strobus,0,1,"Elbe Sandstone Mountains, Czech Republic ",222,300,49.9976667,14.5661666666666,1.95,6.3,23.7,8.8,565,Mountain forest,Climatic variables informed in the paper
+424,Wilcoxina mikolae ,Valid,Kohout et al 2011 ,0,0,1,Not assessed,Pinus strobus,0,1,"Elbe Sandstone Mountains, Czech Republic ",222,300,49.9976667,14.5661666666666,1.95,6.3,23.7,8.8,565,Mountain forest,Climatic variables informed in the paper
+425,Atheliaceae sp. ,NA,Hynson et al. 2013 ,0,0,1,1,Pinus spp,1,0,"Maui and Hawai'i, USA",50,1889,20.7252778,-156.293611111111,3.97,5.6,49.8,13.7,1434,Shrubland,Climatic variables informed in the paper
+426,Cadophora sp.,NA,Hynson et al. 2013 ,0,0,1,1,Pinus spp,1,0,"Maui and Hawai'i, USA",50,1889,20.7252778,-156.293611111111,3.97,5.6,49.8,13.7,1434,Shrubland,Climatic variables informed in the paper
+427,Suillus brevipes,Valid,Hynson et al. 2013 ,0,0,1,1,Pinus spp,1,0,"Maui and Hawai'i, USA",50,1889,20.7252778,-156.293611111111,3.97,5.6,49.8,13.7,1434,Shrubland,Climatic variables informed in the paper
+428,Suillus luteus ,Valid,Hynson et al. 2013 ,0,0,1,1,Pinus spp,1,0,"Maui and Hawai'i, USA",50,1889,20.7252778,-156.293611111111,3.97,5.6,49.8,13.7,1434,Shrubland,Climatic variables informed in the paper
+429,Rhizopogon rubescens,Rhizopogon roseolus,Hynson et al. 2013 ,0,0,1,1,Pinus radiata,0,1,"Maui and Hawai'i, USA",50,1889,20.7252778,-156.293611111111,3.97,5.6,49.8,13.7,1434,Shrubland,Climatic variables informed in the paper
+430,Suillus luteus ,Valid,Hynson et al. 2013 ,0,0,1,1,Pinus radiata,0,1,"Maui and Hawai'i, USA",50,1889,20.7252778,-156.293611111111,3.97,5.6,49.8,13.7,1434,Shrubland,Climatic variables informed in the paper
+431,Atheliaceae sp. ,NA,Hynson et al. 2013 ,0,0,1,0,Pinus radiata,0,1,"Maui and Hawai'i, USA",50,1889,20.7252778,-156.293611111111,3.97,5.6,49.8,13.7,1434,Shrubland,Climatic variables informed in the paper
+432,Descomyces sp. ,NA,Hynson et al. 2013 ,0,0,1,0,Pinus radiata,0,1,"Maui and Hawai'i, USA",50,1889,20.7252778,-156.293611111111,3.97,5.6,49.8,13.7,1434,Shrubland,Climatic variables informed in the paper
+433,Laccaria sp.,NA,Hynson et al. 2013 ,0,0,1,0,Pinus radiata,0,1,"Maui and Hawai'i, USA",50,1889,20.7252778,-156.293611111111,3.97,5.6,49.8,13.7,1434,Shrubland,Climatic variables informed in the paper
+434,Pyronemataceae sp.,NA,Hynson et al. 2013 ,0,0,1,0,Pinus radiata,0,1,"Maui and Hawai'i, USA",50,1889,20.7252778,-156.293611111111,3.97,5.6,49.8,13.7,1434,Shrubland,Climatic variables informed in the paper
+435,Rhizopogon salebrosus,Valid,Hynson et al. 2013 ,0,0,1,0,Pinus radiata,0,1,"Maui and Hawai'i, USA",50,1889,20.7252778,-156.293611111111,3.97,5.6,49.8,13.7,1434,Shrubland,Climatic variables informed in the paper
+436,Sebacinaceae sp. ,NA,Hynson et al. 2013 ,0,0,1,0,Pinus radiata,0,1,"Maui and Hawai'i, USA",50,1889,20.7252778,-156.293611111111,3.97,5.6,49.8,13.7,1434,Shrubland,Climatic variables informed in the paper
+437,Suillus brevipes,Valid,Hynson et al. 2013 ,0,0,1,0,Pinus radiata,0,1,"Maui and Hawai'i, USA",50,1889,20.7252778,-156.293611111111,3.97,5.6,49.8,13.7,1434,Shrubland,Climatic variables informed in the paper
+438,Suillus pungens ,Valid,Hynson et al. 2013 ,0,0,1,0,Pinus radiata,0,1,"Maui and Hawai'i, USA",50,1889,20.7252778,-156.293611111111,3.97,5.6,49.8,13.7,1434,Shrubland,Climatic variables informed in the paper
+439,Thelephora sp.,NA,Hynson et al. 2013 ,0,0,1,0,Pinus radiata,0,1,"Maui and Hawai'i, USA",50,1889,20.7252778,-156.293611111111,3.97,5.6,49.8,13.7,1434,Shrubland,Climatic variables informed in the paper
+440,Tomentella sp. ,NA,Hynson et al. 2013 ,0,0,1,0,Pinus radiata,0,1,"Maui and Hawai'i, USA",50,1889,20.7252778,-156.293611111111,3.97,5.6,49.8,13.7,1434,Shrubland,Climatic variables informed in the paper
+441,Tuber sp. ,NA,Hynson et al. 2013 ,0,0,1,0,Pinus radiata,0,1,"Maui and Hawai'i, USA",50,1889,20.7252778,-156.293611111111,3.97,5.6,49.8,13.7,1434,Shrubland,Climatic variables informed in the paper
+442,Wilcoxina sp.,NA,Hynson et al. 2013 ,0,0,1,0,Pinus radiata,0,1,"Maui and Hawai'i, USA",50,1889,20.7252778,-156.293611111111,3.97,5.6,49.8,13.7,1434,Shrubland,Climatic variables informed in the paper
+443,Cortinarius sp. ,NA,Hynson et al. 2013 ,0,0,1,0,Pinus spp,1,0,"Maui and Hawai'i, USA",50,1889,20.7252778,-156.293611111111,3.97,5.6,49.8,13.7,1434,Shrubland,Climatic variables informed in the paper
+444,Hyaloscyphaceae sp.,NA,Hynson et al. 2013 ,0,0,1,0,Pinus spp,1,0,"Maui and Hawai'i, USA",50,1889,20.7252778,-156.293611111111,3.97,5.6,49.8,13.7,1434,Shrubland,Climatic variables informed in the paper
+445,Inocybe sp. ,NA,Hynson et al. 2013 ,0,0,1,0,Pinus spp,1,0,"Maui and Hawai'i, USA",50,1889,20.7252778,-156.293611111111,3.97,5.6,49.8,13.7,1434,Shrubland,Climatic variables informed in the paper
+446,Laccaria sp.,NA,Hynson et al. 2013 ,0,0,1,0,Pinus spp,1,0,"Maui and Hawai'i, USA",50,1889,20.7252778,-156.293611111111,3.97,5.6,49.8,13.7,1434,Shrubland,Climatic variables informed in the paper
+447,Meliniomyces sp.,Hyaloscypha sp.,Hynson et al. 2013 ,0,0,1,0,Pinus spp,1,0,"Maui and Hawai'i, USA",50,1889,20.7252778,-156.293611111111,3.97,5.6,49.8,13.7,1434,Shrubland,Climatic variables informed in the paper
+448,Pseudotomentella sp.,NA,Hynson et al. 2013 ,0,0,1,0,Pinus spp,1,0,"Maui and Hawai'i, USA",50,1889,20.7252778,-156.293611111111,3.97,5.6,49.8,13.7,1434,Shrubland,Climatic variables informed in the paper
+449,Pyronemataceae sp.,NA,Hynson et al. 2013 ,0,0,1,0,Pinus spp,1,0,"Maui and Hawai'i, USA",50,1889,20.7252778,-156.293611111111,3.97,5.6,49.8,13.7,1434,Shrubland,Climatic variables informed in the paper
+450,Rhizopogon salebrosus,Valid,Hynson et al. 2013 ,0,0,1,0,Pinus spp,1,0,"Maui and Hawai'i, USA",50,1889,20.7252778,-156.293611111111,3.97,5.6,49.8,13.7,1434,Shrubland,Climatic variables informed in the paper
+451,Suillus pungens ,Valid,Hynson et al. 2013 ,0,0,1,0,Pinus spp,1,0,"Maui and Hawai'i, USA",50,1889,20.7252778,-156.293611111111,3.97,5.6,49.8,13.7,1434,Shrubland,Climatic variables informed in the paper
+452,Thelephora sp.,NA,Hynson et al. 2013 ,0,0,1,0,Pinus spp,1,0,"Maui and Hawai'i, USA",50,1889,20.7252778,-156.293611111111,3.97,5.6,49.8,13.7,1434,Shrubland,Climatic variables informed in the paper
+453,Tuber sp. ,NA,Hynson et al. 2013 ,0,0,1,0,Pinus spp,1,0,"Maui and Hawai'i, USA",50,1889,20.7252778,-156.293611111111,3.97,5.6,49.8,13.7,1434,Shrubland,Climatic variables informed in the paper
+454,Wilcoxina sp.,NA,Hynson et al. 2013 ,0,0,1,0,Pinus spp,1,0,"Maui and Hawai'i, USA",50,1889,20.7252778,-156.293611111111,3.97,5.6,49.8,13.7,1434,Shrubland,Climatic variables informed in the paper
+455,Amphinema sp.,NA,Nuñez et al. 2013,0,0,Not assessed,1,Pinus ponderosa,0,1,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,3.85,5.7,88.5,10.1,1300,Temperate forest,Climatic variables informed in the paper
+456,Hebeloma mesophaeum,Valid,Nuñez et al. 2013,0,0,Not assessed,1,Pinus ponderosa,0,1,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,3.85,5.7,88.5,10.1,1300,Temperate forest,Climatic variables informed in the paper
+457,Melanogaster sp.,NA,Nuñez et al. 2013,0,0,Not assessed,1,Pinus ponderosa,0,1,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,3.85,5.7,88.5,10.1,1300,Temperate forest,Climatic variables informed in the paper
+458,Rhizopogon arctostaphyli,Valid,Nuñez et al. 2013,0,0,Not assessed,1,Pinus ponderosa,0,1,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,3.85,5.7,88.5,10.1,1300,Temperate forest,Climatic variables informed in the paper
+459,Rhizopogon rogersii,Valid,Nuñez et al. 2013,0,0,Not assessed,1,Pinus ponderosa,0,1,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,3.85,5.7,88.5,10.1,1300,Temperate forest,Climatic variables informed in the paper
+460,Rhizopogon roseolus,Valid,Nuñez et al. 2013,0,0,Not assessed,1,Pinus ponderosa,0,1,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,3.85,5.7,88.5,10.1,1300,Temperate forest,Climatic variables informed in the paper
+461,Suillus luteus ,Valid,Nuñez et al. 2013,0,0,Not assessed,1,Pinus ponderosa,0,1,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,3.85,5.7,88.5,10.1,1300,Temperate forest,Climatic variables informed in the paper
+462,Amphinema sp.,NA,Hayward et al. 2015a ,0,0,1,1,Pinus spp,1,0,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,3.85,5.7,88.5,10.1,1300,Temperate forest,Climatic variables informed in the paper
+463,Hebeloma sp.,NA,Hayward et al. 2015a ,0,0,1,1,Pinus spp,1,0,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,3.85,5.7,88.5,10.1,1300,Temperate forest,Climatic variables informed in the paper
+464,Inocybe sp. ,NA,Hayward et al. 2015a ,0,0,1,1,Pinus spp,1,0,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,3.85,5.7,88.5,10.1,1300,Temperate forest,Climatic variables informed in the paper
+465,Lactarius quieticolor,Valid,Hayward et al. 2015a ,0,0,1,1,Pinus spp,1,0,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,3.85,5.7,88.5,10.1,1300,Temperate forest,Climatic variables informed in the paper
+466,Leotiomycetes sp. ,NA,Hayward et al. 2015a ,0,0,1,1,Pinus spp,1,0,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,3.85,5.7,88.5,10.1,1300,Temperate forest,Climatic variables informed in the paper
+467,Rhizopogon sp.,NA,Hayward et al. 2015a ,0,0,1,1,Pinus spp,1,0,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,3.85,5.7,88.5,10.1,1300,Temperate forest,Climatic variables informed in the paper
+468,Suillus lakei ,Valid,Hayward et al. 2015a ,0,0,1,1,Pinus spp,1,0,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,3.85,5.7,88.5,10.1,1300,Temperate forest,Climatic variables informed in the paper
+469,Suillus luteus ,Valid,Hayward et al. 2015a ,0,0,1,1,Pinus spp,1,0,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,3.85,5.7,88.5,10.1,1300,Temperate forest,Climatic variables informed in the paper
+470,Boletus edulis,Valid,Hayward et al. 2015a ,0,0,1,0,Pinus spp,1,0,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,3.85,5.7,88.5,10.1,1300,Temperate forest,Climatic variables informed in the paper
+471,Cortinarius sp. ,NA,Hayward et al. 2015a ,0,0,1,0,Pinus spp,1,0,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,3.85,5.7,88.5,10.1,1300,Temperate forest,Climatic variables informed in the paper
+472,Helotiales sp.,NA,Hayward et al. 2015a ,0,0,1,0,Pinus spp,1,0,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,3.85,5.7,88.5,10.1,1300,Temperate forest,Climatic variables informed in the paper
+473,Melanogaster sp.,NA,Hayward et al. 2015a ,0,0,1,0,Pinus spp,1,0,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,3.85,5.7,88.5,10.1,1300,Temperate forest,Climatic variables informed in the paper
+474,Pseudotomentella tristis,Valid,Hayward et al. 2015a ,0,0,1,0,Pinus spp,1,0,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,3.85,5.7,88.5,10.1,1300,Temperate forest,Climatic variables informed in the paper
+475,Pyronemataceae sp.,NA,Hayward et al. 2015a ,0,0,1,0,Pinus spp,1,0,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,3.85,5.7,88.5,10.1,1300,Temperate forest,Climatic variables informed in the paper
+476,Russula sp.,NA,Hayward et al. 2015a ,0,0,1,0,Pinus spp,1,0,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,3.85,5.7,88.5,10.1,1300,Temperate forest,Climatic variables informed in the paper
+477,Sebaninaceae sp. ,NA,Hayward et al. 2015a ,0,0,1,0,Pinus spp,1,0,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,3.85,5.7,88.5,10.1,1300,Temperate forest,Climatic variables informed in the paper
+478,Thelephora terrestris ,Valid,Hayward et al. 2015a ,0,0,1,0,Pinus spp,1,0,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,3.85,5.7,88.5,10.1,1300,Temperate forest,Climatic variables informed in the paper
+479,Tomentella sp. ,NA,Hayward et al. 2015a ,0,0,1,0,Pinus spp,1,0,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,3.85,5.7,88.5,10.1,1300,Temperate forest,Climatic variables informed in the paper
+480,Tricholoma sp.,NA,Hayward et al. 2015a ,0,0,1,0,Pinus spp,1,0,"Isla Victoria, Patagonia, Argentina",75,1050,-40.95,-71.55,3.85,5.7,88.5,10.1,1300,Temperate forest,Climatic variables informed in the paper
+481,Suillus luteus ,Valid,Hayward et al. 2015b,0,0,0,1,Pinus contorta ,1,0,"Patagonia, Chile",50,1420,-45.5005556,-71.7041666666666,3.65,5.9,70.6,8.5,3038,Steppe,Climatic variables informed in the paper
+482,Hebeloma mesophaeum,Valid,Hayward et al. 2015b,0,0,1,0,Pinus contorta ,1,0,"Patagonia, Chile",50,1420,-45.5005556,-71.7041666666666,3.65,5.9,70.6,8.5,3038,Steppe ,Climatic variables informed in the paper
+483,Hydnaceae sp.,NA,Hayward et al. 2015b,0,0,1,0,Pinus contorta ,1,0,"Patagonia, Chile",50,1420,-45.5005556,-71.7041666666666,3.65,5.9,70.6,8.5,3038,Steppe,Climatic variables informed in the paper
+484,Tomentella sublilacina,Thelephora wakefieldiae,Hayward et al. 2015b,0,0,1,0,Pinus contorta ,1,0,"Patagonia, Chile",50,1420,-45.5005556,-71.7041666666666,3.65,5.9,70.6,8.5,3038,Steppe,Climatic variables informed in the paper
+485,Rhizopogon sp.,NA,Wood et al. 2015,0,0,0,1,Pinus contorta ,1,1,"South island, New Zealand",,879,-43.15,171.714444444444,4.38,5.3,120,7.3,2259,Temperate forest,
+486,Suillus luteus ,Valid,Wood et al. 2015,0,0,0,1,Pinus contorta ,1,1,"South island, New Zealand",,879,-43.15,171.714444444444,4.38,5.3,120,7.3,2259,Temperate forest,
+487,Atheliales sp.,NA,Gundale et al. 2016,0,0,1,1,Pinus contorta ,1,0,Chile and New Zealand,37,NA,NA,NA,0.33,NA,5.7,NA,NA,Temperate forest,"Soil variables informed in the paper (C,N,P)"
+488,Sistotrema sp.,Cantharellales sp.,Gundale et al. 2016,0,0,1,1,Pinus contorta ,1,0,Chile and New Zealand,37,NA,NA,NA,0.33,NA,5.7,NA,NA,Temperate forest,"Soil variables informed in the paper (C,N,P)"
+489,Suillus luteus ,Valid,Gundale et al. 2016,0,0,1,1,Pinus contorta ,1,0,Chile and New Zealand,37,NA,NA,NA,0.33,NA,5.7,NA,NA,Temperate forest,"Soil variables informed in the paper (C,N,P)"
+490,Wilcoxina mikolae ,Valid,Gundale et al. 2016,0,0,1,1,Pinus contorta ,1,0,Chile and New Zealand,37,NA,NA,NA,0.33,NA,5.7,NA,NA,Temperate forest,"Soil variables informed in the paper (C,N,P)"
+491,Amanita muscaria,Valid,Gundale et al. 2016,0,0,1,0,Pinus contorta ,1,0,Chile and New Zealand,37,NA,NA,NA,0.33,NA,5.7,NA,NA,Temperate forest,"Soil variables informed in the paper (C,N,P)"
+492,Cadophora findlandica,Hyaloscypha finlandica,Gundale et al. 2016,0,0,1,0,Pinus contorta ,1,0,Chile and New Zealand,37,NA,NA,NA,0.33,NA,5.7,NA,NA,Temperate forest,"Soil variables informed in the paper (C,N,P)"
+493,Rhizopogon ochraceorubens,Valid,Gundale et al. 2016,0,0,1,0,Pinus contorta ,1,0,Chile and New Zealand,37,NA,NA,NA,0.33,NA,5.7,NA,NA,Temperate forest,"Soil variables informed in the paper (C,N,P)"
+494,Suillus granulatus,Valid,Urcelay et al. 2017,0,0,1,1,Pinus elliotti,1,1,"Cordoba, Argentina",57,2700,-32.8333333,-65.5,1.4,7.5,13.7,11.55,860,Mountain grassland,Climatic variables informed in the paper 
+495,Amanita muscaria,Valid,Urcelay et al. 2017,0,0,1,0,Pinus elliotti,1,1,"Cordoba, Argentina",57,1600,-32.8333333,-65.5,1.4,7.5,13.7,11.55,860,Mountain grassland,Climatic variables informed in the paper 
+496,Cadophora findlandica,Hyaloscypha finlandica,Urcelay et al. 2017,0,0,1,0,Pinus elliotti,1,1,"Cordoba, Argentina",57,900,-32.8333333,-65.5,1.4,7.5,13.7,11.55,860,Mountain grassland,Climatic variables informed in the paper 
+497,Clavulina sp.,NA,Urcelay et al. 2017,0,0,1,0,Pinus elliotti,1,1,"Cordoba, Argentina",57,900,-32.8333333,-65.5,1.4,7.5,13.7,11.55,860,Mountain grassland,Climatic variables informed in the paper 
+498,Endogone lactiflua,Jimgerdemannia lactiflua,Urcelay et al. 2017,0,0,1,0,Pinus elliotti,1,1,"Cordoba, Argentina",57,900,-32.8333333,-65.5,1.4,7.5,13.7,11.55,860,Mountain grassland,Climatic variables informed in the paper 
+499,Inocybe curvipes,Valid,Urcelay et al. 2017,0,0,1,0,Pinus elliotti,1,1,"Cordoba, Argentina",57,900,-32.8333333,-65.5,1.4,7.5,13.7,11.55,860,Mountain grassland,Climatic variables informed in the paper 
+500,Inocybe jacobi,Valid,Urcelay et al. 2017,0,0,1,0,Pinus elliotti,1,1,"Cordoba, Argentina",57,900,-32.8333333,-65.5,1.4,7.5,13.7,11.55,860,Mountain grassland,Climatic variables informed in the paper 
+501,Inocybe sindonia,Valid,Urcelay et al. 2017,0,0,1,0,Pinus elliotti,1,1,"Cordoba, Argentina",57,1600,-32.8333333,-65.5,1.4,7.5,13.7,11.55,860,Mountain grassland,Climatic variables informed in the paper 
+502,Laccaria sp.,NA,Urcelay et al. 2017,0,0,1,0,Pinus elliotti,1,1,"Cordoba, Argentina",57,900,-32.8333333,-65.5,1.4,7.5,13.7,11.55,860,Mountain grassland,Climatic variables informed in the paper 
+503,Meliniomyces bicolor ,Hyaloscypha bicolor,Urcelay et al. 2017,0,0,1,0,Pinus elliotti,1,1,"Cordoba, Argentina",57,2200,-32.8333333,-65.5,1.4,7.5,13.7,11.55,860,Mountain grassland,Climatic variables informed in the paper 
+504,Paxillus involutus,Valid,Urcelay et al. 2017,0,0,1,0,Pinus elliotti,1,1,"Cordoba, Argentina",57,900,-32.8333333,-65.5,1.4,7.5,13.7,11.55,860,Mountain grassland,Climatic variables informed in the paper 
+505,Rhizopogon pseudoroseolus,Rhizopogon roseolus,Urcelay et al. 2017,0,0,1,0,Pinus elliotti,1,1,"Cordoba, Argentina",57,1600,-32.8333333,-65.5,1.4,7.5,13.7,11.55,860,Mountain grassland,Climatic variables informed in the paper 
+506,Russula sp.,NA,Urcelay et al. 2017,0,0,1,0,Pinus elliotti,1,1,"Cordoba, Argentina",57,900,-32.8333333,-65.5,1.4,7.5,13.7,11.55,860,Mountain grassland,Climatic variables informed in the paper 
+507,Scleroderma areolaum,Valid,Urcelay et al. 2017,0,0,1,0,Pinus elliotti,1,1,"Cordoba, Argentina",57,900,-32.8333333,-65.5,1.4,7.5,13.7,11.55,860,Mountain grassland,Climatic variables informed in the paper 
+508,Scleroderma sp.,NA,Urcelay et al. 2017,0,0,1,0,Pinus elliotti,1,1,"Cordoba, Argentina",57,900,-32.8333333,-65.5,1.4,7.5,13.7,11.55,860,Mountain grassland,Climatic variables informed in the paper 
+509,Sebacina sp.,NA,Urcelay et al. 2017,0,0,1,0,Pinus elliotti,1,1,"Cordoba, Argentina",57,900,-32.8333333,-65.5,1.4,7.5,13.7,11.55,860,Mountain grassland,Climatic variables informed in the paper 
+510,Sebacinaceae sp. ,NA,Urcelay et al. 2017,0,0,1,0,Pinus elliotti,1,1,"Cordoba, Argentina",57,900,-32.8333333,-65.5,1.4,7.5,13.7,11.55,860,Mountain grassland,Climatic variables informed in the paper 
+511,Sistotrema sp.,Cantharellales sp.,Urcelay et al. 2017,0,0,1,0,Pinus elliotti,1,1,"Cordoba, Argentina",57,900,-32.8333333,-65.5,1.4,7.5,13.7,11.55,860,Mountain grassland,Climatic variables informed in the paper 
+512,Thelephoraceae sp.,NA,Urcelay et al. 2017,0,0,1,0,Pinus elliotti,1,1,"Cordoba, Argentina",57,900,-32.8333333,-65.5,1.4,7.5,13.7,11.55,860,Mountain grassland,Climatic variables informed in the paper 
+513,Thelephora terrestris,Valid,Urcelay et al. 2017,0,0,1,0,Pinus elliotti,1,1,"Cordoba, Argentina",57,2200,-32.8333333,-65.5,1.4,7.5,13.7,11.55,860,Mountain grassland,Climatic variables informed in the paper 
+514,Tomentella coerulea,Valid,Urcelay et al. 2017,0,0,1,0,Pinus elliotti,1,1,"Cordoba, Argentina",57,900,-32.8333333,-65.5,1.4,7.5,13.7,11.55,860,Mountain grassland,Climatic variables informed in the paper 
+515,Tomentella sp. ,NA,Urcelay et al. 2017,0,0,1,0,Pinus elliotti,1,1,"Cordoba, Argentina",57,900,-32.8333333,-65.5,1.4,7.5,13.7,11.55,860,Mountain grassland,Climatic variables informed in the paper 
+516,Tuber sp. ,NA,Urcelay et al. 2017,0,0,1,0,Pinus elliotti,1,1,"Cordoba, Argentina",57,900,-32.8333333,-65.5,1.4,7.5,13.7,11.55,860,Mountain grassland,Climatic variables informed in the paper 
+517,Tylospora sp. ,NA,Urcelay et al. 2017,0,0,1,0,Pinus elliotti,1,1,"Cordoba, Argentina",57,900,-32.8333333,-65.5,1.4,7.5,13.7,11.55,860,Mountain grassland,Climatic variables informed in the paper 
+518,Wilcoxina mikolae ,Valid,Urcelay et al. 2017,0,0,1,0,Pinus elliotti,1,1,"Cordoba, Argentina",57,900,-32.8333333,-65.5,1.4,7.5,13.7,11.55,860,Mountain grassland,Climatic variables informed in the paper 
+519,Wilcoxina sp.,NA,Urcelay et al. 2017,0,0,1,0,Pinus elliotti,1,1,"Cordoba, Argentina",57,900,-32.8333333,-65.5,1.4,7.5,13.7,11.55,860,Mountain grassland,Climatic variables informed in the paper 
+520,Amphinema sp1,NA,Ning et al. 2020 ,0,1,0,0,Pinus elliotti,0,1,"Guizhou Province, China ",30,1200,26.75,107.183333333333,1.2,4.1,14.6,15.3,1198,Subtropical forest,Climatic (except for temp and precip) and soil variables informed in the paper
+521,Cenococcum geophilum,Valid,Ning et al. 2020 ,0,1,0,0,Pinus elliotti,0,1,"Guizhou Province, China ",30,1200,26.75,107.183333333333,1.2,4.1,14.6,15.3,1198,Subtropical forest,Climatic (except for temp and precip) and soil variables informed in the paper
+522,Clavulina sp,NA,Ning et al. 2020 ,0,1,0,0,Pinus elliotti,0,1,"Guizhou Province, China ",30,1200,26.75,107.183333333333,1.2,4.1,14.6,15.3,1198,Subtropical forest,Climatic (except for temp and precip) and soil variables informed in the paper
+523,Phialocephala fortinii,Valid,Ning et al. 2020 ,0,1,0,0,Pinus elliotti,0,1,"Guizhou Province, China ",30,1200,26.75,107.183333333333,1.2,4.1,14.6,15.3,1198,Subtropical forest,Climatic (except for temp and precip) and soil variables informed in the paper
+524,Pseudotomentella sp,NA,Ning et al. 2020 ,0,1,0,0,Pinus elliotti,0,1,"Guizhou Province, China ",30,1200,26.75,107.183333333333,1.2,4.1,14.6,15.3,1198,Subtropical forest,Climatic (except for temp and precip) and soil variables informed in the paper
+525,Rhizopogon sp1,NA,Ning et al. 2020 ,0,1,0,0,Pinus elliotti,0,1,"Guizhou Province, China ",30,1200,26.75,107.183333333333,1.2,4.1,14.6,15.3,1198,Subtropical forest,Climatic (except for temp and precip) and soil variables informed in the paper
+526,Rhizopogon sp2,NA,Ning et al. 2020 ,0,1,0,0,Pinus elliotti,0,1,"Guizhou Province, China ",30,1200,26.75,107.183333333333,1.2,4.1,14.6,15.3,1198,Subtropical forest,Climatic (except for temp and precip) and soil variables informed in the paper
+527,Russula sp1,NA,Ning et al. 2020 ,0,1,0,0,Pinus elliotti,0,1,"Guizhou Province, China ",30,1200,26.75,107.183333333333,1.2,4.1,14.6,15.3,1198,Subtropical forest,Climatic (except for temp and precip) and soil variables informed in the paper
+528,Russula sp2,NA,Ning et al. 2020 ,0,1,0,0,Pinus elliotti,0,1,"Guizhou Province, China ",30,1200,26.75,107.183333333333,1.2,4.1,14.6,15.3,1198,Subtropical forest,Climatic (except for temp and precip) and soil variables informed in the paper
+529,Russula sp3,NA,Ning et al. 2020 ,0,1,0,0,Pinus elliotti,0,1,"Guizhou Province, China ",30,1200,26.75,107.183333333333,1.2,4.1,14.6,15.3,1198,Subtropical forest,Climatic (except for temp and precip) and soil variables informed in the paper
+530,Russula violeipes,Valid,Ning et al. 2020 ,0,1,0,0,Pinus elliotti,0,1,"Guizhou Province, China ",30,1200,26.75,107.183333333333,1.2,4.1,14.6,15.3,1198,Subtropical forest,Climatic (except for temp and precip) and soil variables informed in the paper
+531,Scleroderma yunnanense,Valid,Ning et al. 2020 ,0,1,0,0,Pinus elliotti,0,1,"Guizhou Province, China ",30,1200,26.75,107.183333333333,1.2,4.1,14.6,15.3,1198,Subtropical forest,Climatic (except for temp and precip) and soil variables informed in the paper
+532,Suillus bovinus,Valid,Ning et al. 2020 ,0,1,0,0,Pinus elliotti,0,1,"Guizhou Province, China ",30,1200,26.75,107.183333333333,1.2,4.1,14.6,15.3,1198,Subtropical forest,Climatic (except for temp and precip) and soil variables informed in the paper
+533,Thelephora terrestris,Valid,Ning et al. 2020 ,0,1,0,0,Pinus elliotti,0,1,"Guizhou Province, China ",30,1200,26.75,107.183333333333,1.2,4.1,14.6,15.3,1198,Subtropical forest,Climatic (except for temp and precip) and soil variables informed in the paper
+534,Tomentella sp1,NA,Ning et al. 2020 ,0,1,0,0,Pinus elliotti,0,1,"Guizhou Province, China ",30,1200,26.75,107.183333333333,1.2,4.1,14.6,15.3,1198,Subtropical forest,Climatic (except for temp and precip) and soil variables informed in the paper
+535,Tomentella sp2,NA,Ning et al. 2020 ,0,1,0,0,Pinus elliotti,0,1,"Guizhou Province, China ",30,1200,26.75,107.183333333333,1.2,4.1,14.6,15.3,1198,Subtropical forest,Climatic (except for temp and precip) and soil variables informed in the paper
+536,Tomentella sp3,NA,Ning et al. 2020 ,0,1,0,0,Pinus elliotti,0,1,"Guizhou Province, China ",30,1200,26.75,107.183333333333,1.2,4.1,14.6,15.3,1198,Subtropical forest,Climatic (except for temp and precip) and soil variables informed in the paper
+537,Tylospora sp1,NA,Ning et al. 2020 ,0,1,0,0,Pinus elliotti,0,1,"Guizhou Province, China ",30,1200,26.75,107.183333333333,1.2,4.1,14.6,15.3,1198,Subtropical forest,Climatic (except for temp and precip) and soil variables informed in the paper
+538,Cenococcum sp.,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+539,Cortinarius sp6,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+540,Cortinarius sp9,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+541,Hebeloma sp1,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+542,Humaria sp1,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+543,Inocybe sp1,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+544,Inocybe sp2,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+545,Inocybe sp6,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+546,Inocybe sp7,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+547,Inocybe sp11,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+548,Inocybe sp13,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+549,Leccinum sp. ,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+550,Paxillus sp.,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+551,Russula sp3,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+552,Russula sp4,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+553,Sebacina sp1,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+554,Sebacina sp17,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+555,Sebacina sp18,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+556,Sebacina sp24,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+557,Tomentella  sp3,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+558,Tomentella  sp4,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+559,Tomentella  sp6,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+560,Tomentella  sp8,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+561,Tomentella  sp16,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+562,Tomentella  sp22,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+563,Tomentella  sp24,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+564,Tomentella  sp28,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+565,Tomentella  sp30,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+566,Tomentella  sp31,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+567,Tomentella  sp33,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+568,Tricholoma sp1,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+569,Tuber sp1,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+570,Tuber sp6,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+571,Tuber sp8,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+572,Clavulina sp3,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+573,Clavulina sp4,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+574,Cortinarius sp7,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+575,Cortinarius sp8,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+576,Inocybe sp8,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+577,Lactarius sp1 ,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+578,Russula sp5,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+579,Sebacina sp5,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+580,Sebacina sp6,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+581,Sebacina sp7,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+582,Sebacina sp8,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+583,Sebacina sp10,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+584,Sebacina sp11,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+585,Sebacina sp21,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+586,Tomentella  sp9,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+587,Tomentella  sp32,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+588,Tomentella  sp41,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+589,Tomentella  sp43,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+590,Tomentella  sp44,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+591,Tuber sp4,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+592,Pachyphloeus sp,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+593,Cortinarius sp5,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+594,Genea sp3,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+595,Inocybe sp12,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+596,Inocybe sp19,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+597,Pyronemataceae sp,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+598,Russula sp2,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+599,Sebacina sp16,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+600,Sebacina sp24,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+601,Suillus sp1,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+602,Suillus sp2,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+603,Tomentella  sp1,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+604,Tomentella  sp13,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+605,Tomentella  sp25,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+606,Tomentella  sp27,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+607,Tomentella  sp38,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+608,Rhizopogon sp.,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+609,Cortinarius sp1,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+610,Cortinarius sp2,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+611,Genea sp2,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+612,Genea sp4,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+613,Inocybe sp3,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+614,Inocybe sp4,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+615,Inocybe sp9,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+616,Inocybe sp10,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+617,Inocybe sp14,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+618,Otidea sp.,Valid,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+619,Russula sp6,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+620,Russula sp7,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+621,Scleroderma sp2,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+622,Sebacina sp3,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+623,Sebacina sp20,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+624,Suillus sp3,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+625,Tomentella  sp5,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+626,Tomentella  sp10,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+627,Tomentella  sp14,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+628,Tomentella  sp20,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+629,Tomentella  sp45,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+630,Tuber sp3,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+631,Tuber sp5,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+632,Wilcoxina sp,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+633,Amphinema sp.,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+634,Geopora sp.,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+635,Gymnomyces sp2,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+636,Hebeloma sp2,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+637,Inocybe sp17,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+638,Inocybe sp18,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+639,Pezizales sp2,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+640,Pezizales sp3,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+641,Pezizales sp6,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+642,Scleroderma sp3,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+643,Sebacina sp13,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+644,Sebacina sp14,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+645,Tomentella sp39,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+646,Tomentella sp40,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+647,Tylospora sp.,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+648,Sebacina sp9,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+649,Tomentella sp17,NA,Bahran et al. 2013,0,1,0,0,Pinus sylvestris,1,0,"Hyrcanian forests, Northern Iran",40,1064,36.0666667,53.15,2.69,7.2,7.2,15.3,250,Temperate forest,
+650,Amphinema byssoides,Valid,Barroetaveña et al. 2010,1,0,0,0,Pinus ponderosa,0,1,"Patagonia, Argentina",50,399,-41.9833333,-71.5166666666666,4.05,5.57,68,9.8,750,Steppe grassland,Climatic and soil variables informed in the paper
+651,Hebeloma mesophaeum,Valid,Barroetaveña et al. 2010,1,0,0,0,Pinus ponderosa,0,1,"Patagonia, Argentina",50,399,-41.9833333,-71.5166666666666,4.05,5.57,68,9.8,750,Steppe grassland,Climatic and soil variables informed in the paper
+652,Laccaria sp. ,NA,Barroetaveña et al. 2010,1,0,0,0,Pinus ponderosa,0,1,"Patagonia, Argentina",50,399,-41.9833333,-71.5166666666666,4.05,5.57,68,9.8,750,Steppe grassland,Climatic and soil variables informed in the paper
+653,Tomentella sp. ,NA,Barroetaveña et al. 2010,1,0,0,0,Pinus ponderosa,0,1,"Patagonia, Argentina",50,399,-41.9833333,-71.5166666666666,4.05,5.57,68,9.8,750,Steppe grassland,Climatic and soil variables informed in the paper
+654,Rhizopogon roseolus,Valid,Barroetaveña et al. 2010,1,0,0,0,Pinus ponderosa,0,1,"Patagonia, Argentina",50,399,-41.9833333,-71.5166666666666,4.05,5.57,68,9.8,750,Steppe grassland,Climatic and soil variables informed in the paper
+655,Wilcoxina mikolae ,Valid,Barroetaveña et al. 2010,1,0,0,0,Pinus ponderosa,0,1,"Patagonia, Argentina",50,399,-41.9833333,-71.5166666666666,4.05,5.57,68,9.8,750,Steppe grassland,Climatic and soil variables informed in the paper
+656,Tuber sp. ,NA,Barroetaveña et al. 2010,1,0,0,0,Pinus ponderosa,0,1,"Patagonia, Argentina",50,399,-41.9833333,-71.5166666666666,4.05,5.57,68,9.8,750,Steppe grassland,Climatic and soil variables informed in the paper
+657,Cylindrocarpon sp.,NA,Barroetaveña et al. 2010,1,0,0,0,Pinus ponderosa,0,1,"Patagonia, Argentina",50,399,-41.9833333,-71.5166666666666,4.05,5.57,68,9.8,750,Steppe grassland,Climatic and soil variables informed in the paper
+658,Pezizales sp.,NA,Barroetaveña et al. 2010,1,0,0,0,Pinus ponderosa,0,1,"Patagonia, Argentina",50,399,-41.9833333,-71.5166666666666,4.05,5.57,68,9.8,750,Steppe grassland,Climatic and soil variables informed in the paper
+659,Meliniomyces variabilis,Hyaloscypha variabilis ,Hawley et al. 2008,0,1,0,0,Pinus patula,1,0,"Mpumalanga province, South Africa ",25,1410,-25.1866667,30.725,2.09,5.4,26.3,20,736,Subtropical forest,Climatic variables informed in the paper
+660,Amanita rubescens ,Valid,Hawley et al. 2008,0,1,0,0,Pinus patula,1,0,"Mpumalanga province, South Africa ",25,1410,-25.1866667,30.725,2.09,5.4,26.3,20,736,Subtropical forest,Climatic variables informed in the paper
+661,Scleroderma bovista,Valid,Hawley et al. 2008,0,1,0,0,Pinus patula,1,0,"Mpumalanga province, South Africa ",25,1410,-25.1866667,30.725,2.09,5.4,26.3,20,736,Subtropical forest,Climatic variables informed in the paper
+662,Phialocephala fortinii,Valid,Hawley et al. 2008,0,1,0,0,Pinus patula,1,0,"Mpumalanga province, South Africa ",25,1410,-25.1866667,30.725,2.09,5.4,26.3,20,736,Subtropical forest,Climatic variables informed in the paper
+663,Amanita spissa ,Amanita excelsa,Hawley et al. 2008,0,1,0,0,Pinus patula,1,0,"Mpumalanga province, South Africa ",25,1410,-25.1866667,30.725,2.09,5.4,26.3,20,736,Subtropical forest,Climatic variables informed in the paper
+664,Albatrellus ovinus,Valid,Hawley et al. 2008,0,1,0,0,Pinus patula,1,0,"Mpumalanga province, South Africa ",25,1410,-25.1866667,30.725,2.09,5.4,26.3,20,736,Subtropical forest,Climatic variables informed in the paper
+665,Cortinarius teraturgus,Valid,Tedersoo et al. 2007 ,0,1,0,0,Pinus caribaea,1,0,"Le Niol, Seychelles",29,180,-4.625,55.43,4.24,5.6,51.3,24.8,2269,Tropical forest,Altitude informed in the paper
+666,Pisolithus tinctorius,Valid,Tedersoo et al. 2007 ,0,1,0,0,Pinus caribaea,1,0,"Le Niol, Seychelles",29,180,-4.625,55.43,4.24,5.6,51.3,24.8,2269,Tropical forest,Altitude informed in the paper
+667,Rhizopogon succosus,Valid,Tedersoo et al. 2007 ,0,1,0,0,Pinus caribaea,1,0,"Le Niol, Seychelles",29,180,-4.625,55.43,4.24,5.6,51.3,24.8,2269,Tropical forest,Altitude informed in the paper
+668,Rhizopogon fuscorubens,Valid,Tedersoo et al. 2007 ,0,1,0,0,Pinus caribaea,1,0,"Le Niol, Seychelles",29,180,-4.625,55.43,4.24,5.6,51.3,24.8,2269,Tropical forest,Altitude informed in the paper
+669,Amanita muscaria,Valid,Walbert et al. 2010 ,0,1,0,0,Pinus radiata,1,0,"North Island, New Zealand ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+670,Cenococcum geophilum,Valid,Walbert et al. 2010 ,0,1,0,0,Pinus radiata,1,0,"North Island, New Zealand ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+671,Chalciporus piperatus,Valid,Walbert et al. 2010 ,0,1,0,0,Pinus radiata,1,0,"North Island, New Zealand ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+672,Hebeloma sp.,NA,Walbert et al. 2010 ,0,1,0,0,Pinus radiata,1,0,"North Island, New Zealand ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+673,Inocybe lacera,Valid,Walbert et al. 2010 ,0,1,0,0,Pinus radiata,1,0,"North Island, New Zealand ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+674,Inocybe sindonia,Valid,Walbert et al. 2010 ,0,1,0,0,Pinus radiata,1,0,"North Island, New Zealand ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+675,Inocybe sp.,NA,Walbert et al. 2010 ,0,1,0,0,Pinus radiata,1,0,"North Island, New Zealand ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+676,Laccaria proxima,Valid,Walbert et al. 2010 ,0,1,0,0,Pinus radiata,1,0,"North Island, New Zealand ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+677,Lactarius rufus,Valid,Walbert et al. 2010 ,0,1,0,0,Pinus radiata,1,0,"North Island, New Zealand ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+678,Pseudotomentella tristis,Valid,Walbert et al. 2010 ,0,1,0,0,Pinus radiata,1,0,"North Island, New Zealand ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+679,Pseudotomentella sp,NA,Walbert et al. 2010 ,0,1,0,0,Pinus radiata,1,0,"North Island, New Zealand ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+680,Rhizopogon luteolus,Valid,Walbert et al. 2010 ,0,1,0,0,Pinus radiata,1,0,"North Island, New Zealand ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+681,Rhizopogon luteorubescens,Valid,Walbert et al. 2010 ,0,1,0,0,Pinus radiata,1,0,"North Island, New Zealand ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+682,Rhizopogon pseudoroseolus,Rhizopogon roseolus,Walbert et al. 2010 ,0,1,0,0,Pinus radiata,1,0,"North Island, New Zealand ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+683,Rhizopogon rubescens,Rhizopogon roseolus,Walbert et al. 2010 ,0,1,0,0,Pinus radiata,1,0,"North Island, New Zealand ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+684,Scleroderma bovista,Valid,Walbert et al. 2010 ,0,1,0,0,Pinus radiata,1,0,"North Island, New Zealand ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+685,Suillus sp.,NA,Walbert et al. 2010 ,0,1,0,0,Pinus radiata,1,0,"North Island, New Zealand ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+686,Thelephora terrestris,Valid,Walbert et al. 2010 ,0,1,0,0,Pinus radiata,1,0,"North Island, New Zealand ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+687,Tomentella sp.,NA,Walbert et al. 2010 ,0,1,0,0,Pinus radiata,1,0,"North Island, New Zealand ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+688,Tricholoma sp.,NA,Walbert et al. 2010 ,0,1,0,0,Pinus radiata,1,0,"North Island, New Zealand ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+689,Tuber sp.,NA,Walbert et al. 2010 ,0,1,0,0,Pinus radiata,1,0,"North Island, New Zealand ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+690,Wilcoxina mikolae,Valid,Walbert et al. 2010 ,0,1,0,0,Pinus radiata,1,0,"North Island, New Zealand ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+691,Suillus luteus,Valid,Policelli et al 2020,0,0,1,1,Pinus contorta ,1,1,"Patagonia, Chile",50,1420,-38.4166667,-71.5333333333333,5.59,5.6,99.1,8.5,3038,Temperate forest,Climatic and soil variables informed in the paper
+692,Amanita muscaria ,Valid,Policelli et al 2020,0,0,1,0,Pinus contorta ,1,1,"Patagonia, Chile",50,1420,-38.4166667,-71.5333333333333,5.59,5.2,99.1,8.5,3038,Temperate forest,Climatic and soil variables informed in the paper
+693,Sistotrema sp.,Cantharellales sp.,Policelli et al 2020,0,0,1,1,Pinus contorta ,1,1,"Patagonia, Chile",50,1420,-38.4166667,-71.5333333333333,5.59,5.6,99.1,8.5,3038,Temperate forest,Climatic and soil variables informed in the paper
+694,Thelephora terrestris,Valid,Policelli et al 2020,0,0,0,1,Pinus contorta ,1,1,"Patagonia, Chile",50,1420,-38.4166667,-71.5333333333333,5.59,5.6,99.1,8.5,3038,Temperate forest,Climatic and soil variables informed in the paper
+695,Hebeloma sp. ,NA,Policelli et al 2020,0,0,0,1,Pinus contorta ,1,1,"Patagonia, Chile",50,1420,-38.4166667,-71.5333333333333,5.59,5.6,99.1,8.5,3038,Temperate forest,Climatic and soil variables informed in the paper

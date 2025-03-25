@@ -1,0 +1,118 @@
+{
+  "@context" : [ "http://www.w3.org/ns/csvw", {
+    "@language" : "en"
+  } ],
+  "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
+  "tables" : [ {
+    "@context" : [ "http://www.w3.org/ns/csvw", {
+      "@language" : "en"
+    } ],
+    "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
+    "url" : "nph18527-sup-0002-tables1.csv",
+    "dcterms:bibliographicCitation" : "Policelli, N., Hoeksema, J.D., Moyano, J., Vilgalys, R., Vivelo, S. and Bhatnagar, J.M. (2023), Global pine tree invasions are linked to invasive root symbionts. New Phytol, 237: 16-21. https://doi.org/10.1111/nph.18527",
+    "interactionTypeName": "symbiontOf",
+    "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002440",
+    "sourceTaxonKingdomName": "Fungi",
+    "targetTaxonKingdomName": "Plantae",
+    "targetBodyPartName": "root",
+    "targetBodyPartId" : "http://purl.obolibrary.org/obo/PO_0025025",
+    "delimiter" : ",",
+    "headerRowCount" : 1,
+    "null" : [ "", "NA" ],
+    "tableSchema" : {
+      "columns" : [ {
+        "name" : "ID",
+        "titles" : "ID",
+        "datatype" : "string"
+      }, {
+        "name" : "sourceTaxonName",
+        "titles" : "EMF_sp",
+        "datatype" : "string"
+      }, {
+        "name" : "Synonymia",
+        "titles" : "Synonymia",
+        "datatype" : "string"
+      }, {
+        "name" : "referenceCitation",
+        "titles" : "Reference_original",
+        "datatype" : "string"
+      }, {
+        "name" : "Introduced_only",
+        "titles" : "Introduced_only",
+        "datatype" : "string"
+      }, {
+        "name" : "Plantation_only",
+        "titles" : "Plantation_only",
+        "datatype" : "string"
+      }, {
+        "name" : "Invasion_mature",
+        "titles" : "Invasion_mature",
+        "datatype" : "string"
+      }, {
+        "name" : "Invasion_front",
+        "titles" : "Invasion_front",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonName",
+        "titles" : "Host",
+        "datatype" : "string"
+      }, {
+        "name" : "Field_sample",
+        "titles" : "Field_sample",
+        "datatype" : "string"
+      }, {
+        "name" : "Greenhouse_sample",
+        "titles" : "Greenhouse_sample",
+        "datatype" : "string"
+      }, {
+        "name" : "localityName",
+        "titles" : "Introduced_to",
+        "datatype" : "string"
+      }, {
+        "name" : "Stand_mean_age_years",
+        "titles" : "Stand_mean_age_years",
+        "datatype" : "string"
+      }, {
+        "name" : "Mean_altitude_m",
+        "titles" : "Mean_altitude_m",
+        "datatype" : "string"
+      }, {
+        "name" : "decimalLatitude",
+        "titles" : "LAT_decimal",
+        "datatype" : "string"
+      }, {
+        "name" : "decimalLongitude",
+        "titles" : "LON_decimal",
+        "datatype" : "string"
+      }, {
+        "name" : "N_g/kg",
+        "titles" : "N_g/kg",
+        "datatype" : "string"
+      }, {
+        "name" : "pH",
+        "titles" : "pH",
+        "datatype" : "string"
+      }, {
+        "name" : "SOC_g/kg",
+        "titles" : "SOC_g/kg",
+        "datatype" : "string"
+      }, {
+        "name" : "Annual_mean_temperature_°C",
+        "titles" : "Annual_mean_temperature_°C",
+        "datatype" : "string"
+      }, {
+        "name" : "Annual_precipitation_mm",
+        "titles" : "Annual_precipitation_mm",
+        "datatype" : "string"
+      }, {
+        "name" : "habitatName",
+        "titles" : "Type_of_ecosystem",
+        "datatype" : "string"
+      }, {
+        "name" : "Observations",
+        "titles" : "Observations",
+        "datatype" : "string"
+      } ]
+    }
+  } ]
+}
